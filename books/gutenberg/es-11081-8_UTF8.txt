@@ -1,0 +1,2575 @@
+The Project Gutenberg EBook of A Vocabulary or Phrase Book of the Mutsun
+Language, Spoken at the Mission of San Juan Bautista, Alta California, by Father Felipe Arroyo de la Cuesta
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: A Vocabulary or Phrase Book of the Mutsun Language, Spoken at the Mission of San Juan Bautista, Alta California
+
+Author: Father Felipe Arroyo de la Cuesta
+
+Release Date: February 14, 2004 [EBook #11081]
+
+Language: English and Spanish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MUTSUN LANGUAGE ***
+
+
+
+
+Produced by David Starner, David Garcia and PG Distributed Proofreaders
+
+
+
+
+[Nota del transcriptor: Las irregularidades en acentuación y ortografía del
+español del libro original han sido retenidas en este texto digital]
+
+{Transcriber's note: The irregularities in accenting and orthography in the
+Spanish of the original have been retained in this etext.]
+
+
+
+
+SHEA'S LIBRARY OF AMERICAN LINGUISTICS.
+
+IV.
+
+GRAMMAR OF THE MUTSUN LANGUAGE,
+
+SPOKEN AT THE MISSION OF SAN JUAN BAUTISTA, ALTA CALIFORNIA.
+
+BY FATHER FELIPE ARROYO DE LA CUESTA,
+
+OF THE ORDER OF ST. FRANCIS.
+
+
+
+1861
+
+
+
+EXTRACTO
+
+DE LA
+
+GRAMATICA MUTSUN,
+
+Ó DE LA LENGUA DE LOS NATURALES DE LA
+
+MISION DE SAN JUAN BAUTISTA,
+
+COMPUESTA
+
+POR EL REV. PADRE FRAY FELIPE ARROYO
+
+DE LA CUESTA,
+
+DEL ORDEN SERAFICO DE N.P. SAN FRANCISCO, MINISTRO
+
+DE DICHA MISION EN 1816.
+
+       *       *       *       *       *
+
+NUEVA-YORK.
+
+1861.
+
+
+
+
+
+
+PREFACE
+
+       *       *       *       *       *
+
+The accompanying volume is printed exactly from a manuscript of 76
+pages, small quarto, belonging to the College of Santa Inez, by whose
+president it was, at the suggestion of A.S. Taylor, Esq., forwarded to
+the Smithsonian Institution.
+
+The Mutsunes were the Indians among whom the mission of San Juan
+Bautista was planted, June 24, 1799. Their village lay in the centre of
+a valley, with abundance of rich land, and as late as 1831 numbered 1200
+souls. The mission is about 40 miles northwest from Monterey, and they
+are thus the most northerly tribe, of whose language, to our knowledge,
+the Spanish missionaries compiled a grammar. For purposes of comparison
+this little work, accordingly, possesses great value, as the language
+was one of considerable extent, covering, according to Mr. Taylor's
+estimate, a district one hundred and seventy miles long by eighty broad.
+
+The late W.W. Turner, who examined the work, says in a brief notice
+addressed to the Historical Magazine (vol. 1, p. 206): "The Mutsun
+language is clearly the same with the _Rumsen_ or _Runsien_ (the
+Achastlian of De la Manon); one of the two spoken at the mission of San
+Carlos, and with that of the mission of La Soledad, further to the
+south. A considerable degree of resemblance appears also in the language
+of the _Olhones_ (or _Costanos_) on the Bay of San Francisco; and a
+fainter one further north in the San Rafael, and also in the _Olamentke_
+or _Bodegan_ language."
+
+On the cover of the manuscript is the following note, of considerable
+importance in instituting comparisons: "Copia de la lengua Mutsun en
+estilo Catalan á causa la escribió un Catalan. La Castellana usa de la
+fuerza de la pronunciacion de letras de otro modo en sa alfabeto. Ve el
+original intitulado Gramatica California." The Catalans pronounce _ch_
+hard and _j_ like the Germans.
+
+Father Felipe Arroyo de la Cuesta was then, it would seem, a Catalan. He
+came to California, it is said, about 1810, and was for many years
+missionary at San Juan Bautista. About 1830 he had, however, become very
+infirm and broken in health, yet then new troubles came, and in the
+political changes, which struck a death blow to the missions, the aged
+missionary was driven from one refuge to another, still apparently
+continuing his literary labor. He finally died at the mission of Santa
+Inez in 1842.
+
+   J.G.S.
+
+
+
+
+INTRODUCCION
+
+A LA
+
+GRAMATICA MUTSUN.
+
+       *       *       *       *       *
+
+Al Idioma de estos Indios, le faltan las letras siguientes: _b, d, k, f,
+r_, fuerte, _v_ consonante, y _x_.
+
+
+
+
+CAPITULO I.
+
+De la Analogia, o partes de la Oracion.
+
+
+De las Declinaciones del Nombre Substantivo.
+
+Las Declinaciones de los nombres substantivos son tantas como
+terminaciones tienen los mismos Nombres: unos acaban en _es_, como
+_eyes_; otros en _an_, como _ánan_; otros en _ec_, como _iréc_; otros
+en _us_, como _rus_; otros en _a_, como _ríña_; otros en _el_, como
+_mógel_; otros en _ag_, como _rag_; otros en _o_, como _coró_; otros
+en _ar_, como _sácar_; otros en _or_, como _por_; otros en _oi_, como
+_jócoi_; otros en _ur_, como _júppur_; otros en _os_, como _jórcos_:
+y asi otros nombres con otras terminaciones irreducibles por ahora â
+numero determinado. Mas porque tengan tantas, y tan diversas
+terminaciones, no por eso dexan de poderse declinar gramaticalmente
+todos los nombres que llamamos Substantivos, aunque sin artículos, ô
+signo pronominal _el_, _la_, _lo_, ô _hic_, _hæc_, _hoc_, como se dice
+en latin: por esto en los substantivos no se pone, ni se dice, _eyes_,
+la barba, sino barba; _ánan_, la madre, sino madre; _irec_, piedra;
+_rus_, saliva; _riña_, ratón: _mógel_, cabeza; _rag_, piojo; _coró_,
+pies; _sácar_, liendre; _por_, pulga; _jocoi_, sarna; _juppur_, divieso;
+y _jorcos_, pescuezo: porque este idioma carece de nuestros artículos
+gramaticales; y de consiguiente de los generos masculino, femenino,
+y neutro.
+
+La variación de la voz que se hace por los casos con distinta
+terminacion se llama _Declinacion_, porque se aparta de la terminacion
+del 1^o: v.g.; _musa_, _musae_, _musam_, &c., como se enseña en la
+Gramatica latina; ô bien en la Castellana, con los articulos v.g.:
+_el Señor_, _del Señor_, _para_, ó _al Señor_, &c. Mas como esta
+lengua no tiene articulos ni cierto numero de declinaciones, esto es,
+terminaciones fixas que por donde va un nombre substantivo vaya otro
+igual, es preciso discurrir como se forman, y que casos tiene esta
+lengua sin poner 1^a. _Declinacion_, 2^a, 3^a, &c, sino solamente
+establecer el Nominativo, Genitivo, Dativo, Acusativo, Vocativo,
+y Ablativo, de singular y plural, de todos los nombres substantivos
+de esta lengua Mutsun y es de este modo:
+
+SINGULAR.
+
+  Nom. v.g.  _Appa_,                 El Padre natural.
+  Gen.       _Appa_,                 Del Padre.
+  Dat.       _Appahuas_,             Para el Padre, &c.
+  Acus.      _Appase_,               (Mas adelante se explicara).
+  Voc.       _Appa_.
+  Abla.      _Appatsu_, ò _Appame_, _ò Appatca_.
+
+PLURAL.
+
+  Nom.       _Appagma_,              Los Padres.
+  Gen.       _Appagma_,              De los Padres.
+  Dat.       _Appagmahuas_,          Para los Padres, &c. (Tambien
+                                       se explicare mas adelante.)
+  Acu.       _Apagamase_.
+  Voc.       _Appagma_.
+  Abla.      _Appagmatsu_, ó _Appagmane_, ó _Appamatca_.
+
+
+Otro exemplo.
+
+SINGULAR.
+
+  N.         _Anan_,                 La Madre natural.
+  G.         _Anan_,                 De la Madre.
+  D.         _Ananhuas_,             Para la Madre, &c. (que se notara).
+  Acus.      _Ananne_.
+  V.         _Anan_.
+  Abla.      _Anantsu_, ò _Ananme_, ò _Anantac_.
+
+             PLURAL.
+
+  N.         _Ananmac_.
+  G.         _Ananmac_.
+  D.         _Ananmancuas_.
+  Acus.      _Ananmase_.
+  Voc.       _Ananmac_.
+  Abla.      _Ananmactsu_, ò _Ananmacne_, ò _Ananmatca_.
+
+
+Segun estos exemplos vemos que se pueden declinar los nombres
+substantivos de este Idioma por los casos que tiene nuestro Castellano,
+y el Latin. Mas hemos de advertir que toda declinacion se ha de
+considerar en quanto à la terminacion, ò voz, y en quanto al modo
+de significar la cosa, y asi aunque el Nomº, Genº, y Vocº, suenan
+materialmente lo mismo, se apartan entre si en quanto al modo de la
+recta y formal significación de la cosa; y por esto se ha de atender al
+sentido de la Oracion, y entonces se conoce si es Nom^o, Gen^o, &c., segun
+la parte que rija dichos casos. Segun los exemplos puestos arriba se
+pueden declinar todos los nombres substantivos, sean de cosas animadas ò
+inanimadas, con esta diferencia, que los declinables de cosas animadas,
+en todos los casos, siempre se forman como arriba dixe; el Nom^o es como
+suena la voz en singular, v.g.: ¿Como se dice Muger? pregunto à un
+Indio.--_Mucurma_, responde. Pues esta voz, _Mucurma_ es Nom^o y raiz
+para todos los casos; y asi diremos en singular:
+
+  Nom^o      _Mucurma_.              PLURAL: _Mucurmacma_.
+  Gen^o      _Mucurma_.              &c.
+  Dat^o      _Mucurmahuas_.        { Nota: No todos los nombres
+                                   { tienen _Plural_.
+  Acus^o     _Mucurmase_.
+  Voc^o      _Mucurma_.
+  Ablat^o    _Mucurmatsu_, ò _Mucurmame_, ò _Mucurmatca_.
+
+
+Nominativo, Genitivo, y Vocativo suenan de un mismo modo, esto es,
+tienen una misma terminacion; el Dativo tiene _huas_; el Acusativo _se_,
+y algunos _e_, y otros _ne_; y el Ablativo tiene _tsu, me_, y _ca_, ò
+_tac_, segun finalizen las palabras: el Ablativo tambien acaba en _sum_,
+en _um_, y en _ium_, como se vera en los exemplos, y se advertira en
+quantas ocasiones se hable en Ablativo con preposicion pospuesta,
+ò posposicion, la que siempre acompaña à los casos Dativo, Acusativo,
+y Ablativo de que se infiere que este Idioma es pospositivo, y no
+prepositivo. La posposicion _huas, gua_ ò _cuas_, de los Dativos
+significa _à el_, ò _lo_, y tambien _para el, para la, para lo_. La
+posposicion _se_ ò _e_, de los Acusativos equivale _à los, à las_, de
+nuestro Castellano. El _tsu_ de Ablativo significa _con_: el _me_ unas
+veces _en_, y otras veces, _en casa_, ò _con_: el _tac_, y el _tca_ es
+lo mismo que _en_: el _ium_, el _sum_, y el _um_, significan _con_
+y _de_, segun los verbos que rijan la oracion. Exemplo de todo esto,
+y servirà tambien para entender nuestra preposicion pospuesta, ò las
+posposiciones de esta lengua.
+
+  Nom^o        _Mucurma guate_,      Muger viene, ò la Muger viene.
+  Gen^o     { _Attenane utsel?_      De quien es esta arracada.
+            { _Mucurmane utsel_,     De la Muger es esta arracada.
+  Dat^o     { _Attehuas?_            Para quien, ò à quien?
+            { _Murcurmahuas_,        Para la Muger, ò a la Muger.
+  Acus^o      _Can jagüi Murcumase_, Yo cierro la Muger.
+  Voc^o       _Ayi, Mucurma_,        Ven, Muger.
+  Abl^o     { _Otso Mucurmatsu_,     Vete con la Muger.
+            { _Otso Mucurmame_,      Vete à casa de la Muger.
+            { _Otso Mucurmatca_,     Vete à donde esta la Muger.
+            { _Uttui irectac_,       Ponlo en la piedra.
+            { _Uttui piretca_,       Ponlo en el suelo.
+
+
+El _tsu_, el _me_, el _tca_, el _tac_ son preposiciones ó posposiciones
+de Ablativo. Falta el _sum_, el _um_, y el _ium_: _irecsum_, _tapurum_,
+_jaium_, que es decir, _con la piedra_, _con el palo_, _con la boca_, con
+todas las posposiciones del Ablativo como se expresa antecedentemente.
+El _cuas_, ó el _huas_, del Dativo se hallan en los nombres adjetivos,
+que nacen, y se resuelven de los substantivos: como v.g. decimos,
+_la casa del Rey_: resuelto; _la casa Real_: asi dice este Idioma:
+_Tapur ruca_; De palo casa: resuelto; _Tapurhuas ruca_; empalizada casa,
+ó Maderal casa; esto es casa formada de palos. De esto se dira en el
+Sintaxis de esta lengua. El _se_, del Acusativo sirve en los Verbos
+para preguntar; de que alli hablare tambien.
+
+       *       *       *       *       *
+
+Apéndice, y corolario de quanto contiene este Cap. 1^o.
+
+A pesar de ser tantas las terminaciones de los nombres substantivos de
+esta lengua, podemos reducir sus Declinaciones à una solamente que se
+llama Monoptota, esto es, que tiene todos los casos; semejados unos a
+otros, ò podemos asignarle la Declinación Triptota, que es la que varia
+tan solamente tres casos: como _Templum_, _Templi_, _Templo_; y en este
+Idioma el Dat. Acus. y Ablat. v.g. _Appahuas_, _Appase_, _Appatsu_, y
+asi el de todos los nombres substantivos, acaben en _a, e, i, o, u_;
+ò en _eg, is, ar, og, er, as, ig_, &c., sean del numero singular ò del
+Plural, juntamente con las preposiciones pospuestas siempre. Mas sino
+se ponen estas posposiciones daremos à este Idioma sola la Declinación
+Monoptota. La silaba, ò dicción _huas_, ò _cuas_, siempre se pospone à
+los Dativos, el _se_, y, _e_, à los Acusativos; y el _tsu_, el _me, tca,
+tac, ium, um_, y _sum_, à los Ablativos, con las significaciones que se
+dixo anteriormente.
+
+
+
+
+CAPITULO II.
+
+De las Declinaciones de los Adjetivos.
+
+
+Si por las terminaciones y finales de los Adjetivos, hemos de poner
+las Declinaciones de los mismos Adjetivos, diremos lo mismo que diximos
+à cerca de las de los Substantivos porque son tantas casi como son
+dichos Adjetivos: unos acaban en _e_, como _miste_; otros en _is_, como
+_güara_; otros en _añ_, como _jatsapañ_; &c. otros en _ia_, como
+_Misia_; otros en _in_, como _amtiasmin_, &c. Mas acaben como acabaren
+siempre tienen los mismos casos que los Substantivos con quienes
+conciertan sin variar de terminacion v.g. _miste tsares_; buen
+hombre, Nomin^o; _Miste tsares_, Genitivo; _miste tsareshuas_, Dat^o;
+_Miste tsarese_, Acus^o; _Miste tsarestsu_, Ablat^o; y asi las demas
+terminaciones del Ablat^o singular y plural. Aquí se ve como sin variar
+de terminacion el nombre adjetivo _Miste_, concertado con el Substantivo
+_Tsares_, sigue la declinacion monoptota. Mas si se declinan los
+Adjetivos sin los Substantivos, en este caso siguen la Declinacion
+triptota; como v.g. _Tocolosmin_; el galicoso, ò galicosa: el ò la que
+padece de galico.
+
+
+SINGULAR.
+
+  Nom.        _Tocolósmin_,           El galicoso.
+  Gen.        _Tocolósmin_,           Del galicoso.
+  Dat.        _Tocolósminhuas_,       Para el galicoso, &c.
+  Acus.       _Tocolósmine, Tocólo_.
+  Voc.        _Tocolósmin_.
+  Ablat.      _Tocolósmintsu_, ò _Tocolosminme_, ò _Tocolosmintac_.
+
+PLURAL.
+
+  Nom.        _Tocolómac_,            Los galicosos.
+  Gen.        _Tocolómac_,            De los galicosos.
+  Dat.        _Tolomacuas_.
+  Acus.       _Tocolomacse_.
+  Voc.        _Tocolómac_.
+  Ablat.      _Tocolomactsu_, ò _Tocolomacme_, ò _Tocolomactac_.
+
+
+Y a este tenor todos los Adjetivos pueden declinarse sin los Substantivos
+de quienes se rigen, y con quienes conciertan quando estan juntos; mas
+entonces no tienen mas que la primera terminacion, como se vio en el
+exemplo antecedente.
+
+
+Apendice y Corolario de este 2^o Capitulo.
+
+Tienen los Adjetivos la misma Declinacion que los Substantivos, si se
+declinan solos; mas se diferencian de los Substantivos quando con ellos
+se juntan para declinarse, porque no mudan de terminacion, sino que
+guarden la misma en todos los casos.
+
+
+
+
+CAPITULO III.
+
+De los Pronombres primitivos.
+
+
+Notese que todo Pronombre carece de Vocativo, menos _Tu, meus, noster_
+y _nostras_.
+
+SINGULAR.
+
+  Nom.       _Can_,                  Yo.
+  Gen.       _Can_,                  De mi.
+  Dat.       _Cannis_, ò _Ca_,       A mi.
+  Acus.      _Cannise_,              A mi.
+  Voc.       caret.
+  Ablat.     _Cannistsu_, ò _Cannistose_, Conmigo.
+
+PLURAL.
+
+  Nom.       _Macse_,                Nosotros.
+  Gen.       _Macse_,                De Nosotros.
+  D.         _Macsehuas_,            A Nosotros, &c.
+  Acus.      _Macsene_.
+  Ablat.     _Macsetsu_, ò _Macseme_.
+
+SINGULAR.
+
+  Nom.       _Men_.                  (Tu.)
+  Gen.       _Men_.
+  Dat.       _Mes_, ò _Mis_.
+  Acus.      _Mese_.
+  Ablat.     _Mentsu_, ò _Mesme_.
+
+PLURAL.
+
+  Nom.       _Macam_.                (Vosotros.)
+  Gen.       _Macam_.
+  Dat.       _Macanhuas_.
+  Acus.      _Macanis_.
+  Ablat.     _Macamtsu_, ò _Macamme_.
+
+
+Pronombres Adjetivos.
+
+  _Neppe_;   Este.
+  _Nuppi_;   ese, ò aquel.
+  _Nenisia_; Este mismo.
+  _Nunisia_; ese mismo, ò aquel mismo.
+
+
+Estos se declinan lo mismo que los demas Pronombres y los Derivativos
+son lo mismo que los Primitivos en la voz, y en la signification; pero
+por el contexto y regimen de la oracion se conoce quando es Primitivo,
+como _Yo_, v.g., y quando es Derivativo, como _mio_, v.g. Ellos dicen
+_Can, Can; Macse, Macse; Macam, Macam;_ Yo, Mio; Nosotros, Nuestro;
+Vosotros, Vuestro. _Huac_, el: _Aisa_, ellos: _Nepean_, estos: _Nupean_,
+Aquellos. Estos quatro Pronombres equivalen al _suyo_ de nuestra
+Castilla; y se declinan como los que arriba dexo declinados. En los
+Ablativos no tienen el _tac, tca_; pero tienen el _sum_ todos estos
+Pronombres, de que volven a tratar en otro lugar.
+
+
+Pronombres Relativos, Interrogativos, ê Indefinitos.
+
+SINGULAR.
+
+  _¿Atte_, ò _Attena?_               Quien?
+
+PLURAL.
+
+  _Attequin_ ò _Attequinta?_         Quienes?
+  _Numan_,                           Los que, y las que: el que, y la que.
+
+
+No tiene este Relativo otra terminacion ni de consiguiente mas casos,
+como veremos quando se hable de las oraciones de Relativo.
+
+  _Intsis?_             Que cosa.         _Ista_,            Que.
+  _Aipire_,             Alguno, ò Algunos.
+  _Atsehase_,           lo mismo, Alguno.
+  _Ecueatte_,           Ninguno.          _ecue attequinta_, Ningunos.
+  _Atsehasse_,          Qualquiera.
+  _Hemetcha_,           Uno.              _Aisa utsgina_,    Los dos.
+  _Ecuene_ ò _ecuena_,  Nada, nadie, ninguno.
+  _Hemetshasi_,         Cada uno.
+  _Chorea_, ô _Choressia_, ô _Huacsia_. Solo, el Solo.
+  _Irugmin_,            Todo, ô Todos.
+  _Irugsun_,            Todos sin quedar ninguno.
+  _Imiu_,               Todos juntos.--_Añi_, ô _Aini_,      Otro y otros.
+  _Aupi?_               Qual?--_Anpitna_,                    Qual.
+  _Ai_,                 Cada, ô todos.
+
+
+Mas expliquemos todas estas cosas particularmente para la mayor facilidad
+de las demas partes de la oracion, y para observar ciertas cosas que son
+precisas tener presentes.
+
+
+Pronombre Relativo Interrogante.
+
+SINGULAR.
+
+  Nom.        _¿Attena_, ô _Atte?_              ¿Quien?
+  Gen.        _¿Attenane_, ô _Atte?_            ¿De quien?
+  Dat.        _¿Attehuasta_, ô _Attehuastane?_  ¿Para quien?
+  Acus.       _¿Atteset?_                       ¿A quien?
+  Abla.       _¿Attetsu_, ô _Alteme?_           Con quien?
+                                                  en casa de quien.
+
+PLURAL.
+
+  Nom.        _Atteguin_, ô _Attequinta?_       Quienes?
+
+y los demas casos como tenemos dicho en el singular.
+
+
+Relativo de Identidad.
+
+Numan: este relativo sirve para el Singular y Plural, y para
+todos los casos sin variar de terminacion concertando de un mismo modo
+con qualquier de las personas: v.g. Los que, las que, de los que, para
+los que, para las que, â los que, â las que: el que, la que, lo que, del
+que, de la que, de lo que, para lo que, para la que, â lo que, â la que,
+con lo que, con la que, con los que, con las que. _Numan_, y no mas, con
+esta palabra se compone toda oracion de qualquier coso, de qualquier
+persona, y de qualquier numero, siendo rigurosisima la inflexion, ô
+declinacion de este relativo _Numan_ monoptota.
+
+  _¿Intsis?_     Que?--_Ista?_           ¿Que? ô Que cosa?
+  _Intsise?_     ¿Que es lo que?
+  _Intso_        Esa cosa quien sabe como es?
+  _Intsistac?_   ¿En donde? ô en que cosa?
+  _Intsispe?_    Quien sabe que cosa?
+
+
+Esto mejor se notara en el sintaxis, porque à cada paso saltan estas
+expresiones.
+
+Ecue-atte. No-quien, Ninguno, ô nadie, sigue enteramente su
+simple que es _Atte_; y se compone de la particula negativa _ecue_, no.
+Este otro que sigue, y es _atsehase_, qualquiera, regularmente solo
+tiene la terminacion _atsehastsu_ del Ablativo; en los demas es como el
+_numan_.
+
+
+Nombres Numerales.
+
+_Hemetscha, uno_; nombre numeral adjetivo, cardinal, y primitivo, tiene
+la misma declinacion que todo nombre substantivo en todos los casos: se
+supone del numero singular porque el singular ô uno irregular, no tiene
+plural. El modo cardinal de contar es: _Hemetscha_, uno: _Utsgin_, dos:
+_Capjan_, tres: _Utsit_, quatro: _Parue_, cinco: _Naquichi_, seis:
+_Tsaquichi_, siete; _Taittimin_, ocho: _Pacqui_, nueve: _Tancsagte_,
+diez: y de esto numero no pasan estos Indios. Para decir onze, v.g.:
+_Tancsagte hemetscha hac ichos_; Diez uno el sobra, ô sale; que es
+decir: Diez y sobra uno, _Onze_; y asi hasta 20. con el _ichos_
+volviendo à contar hasta dos diezes, que es _Utsgin tanats: capjan
+tanats_, tres diezes, &c., hastar llegar â diez diezes, y no pasan de
+este numero. _Tanzsagte tanats_; un ciento, ò diez diezes. De estos
+nombres numerales cardinales se forman sus respectivos adverbios
+cardinales primitivos, añadiendo â dichos numerales un _na_; y asi se
+dice: _Hemetschanna; Utsgina; Capjanna, ô Capjenna; Utsitna; Paruena;
+Naquichina; Tsaquichina; Taittiminna; Pacquina; Tanzsana_; Una vez; dos
+veces, &cc., hasta diez veces. Quando se hable de los diez, entonces
+tocaremos esta materia otra vez; y digamos que los numerales ordinales
+derivados, son: _Inniquas ô Innihaus; Juttuyuhuas, ô Hemetschahuas_.
+Estas tres voces suenan diversamente, y significan el primer Ordinal
+de distinto modo. _Innihuas_ es lo mismo que decir, _en el principio,
+o primero_. _Juttuyuhuas_ es adelante primero; y el otro es a riguroso
+ordinal numeral, primero. _Utsginnuhuas_, segundo: _Capjannuhas_,
+tercero: _Utsithuas_, quarto: _Paruessuhas_, quinto: _Naquichinuhas_,
+sexto: _Tsaquichinuhas_, septimo: _Taittiminnuhas_, octavo:
+_Pacquihuas_, nono: _Tanzsagtehuas_, decimo.
+
+Para multiplicar estos ordinales, y los adverbios cardinales, y lo mismo
+los distributivos numerales, se añade el _ichos_ de los primitivos
+numerales cardinales. Numerales distributivos: _emchesi_, cada uno,
+ò de uno en uno: _Utgisi_; De dos en dos: _Capjasi_; De tres en
+tres: _Utsitsi_; De quatro en quatro: _Parnesi_; De cinco en cinco:
+_Naquichisi_; De seis en seis: _Tsaquichisi_; De siete en siete:
+_Taittiminsi_; De ocho en ocho: _Pacquisi_; De nueve en nueve:
+_Tanzshasi_; De diez en diez. No tengo mas que advertir sobre estos
+numerales, cardinales, ordinales, y distributivos. Si se ofreciere
+alguna dificultad sobre los que en latin acaban en _arius_, en _plex_,
+en _plus_, y de los patronimicos volvere â decir algo en otra parte.
+
+
+ANOMALOS.
+
+_Chorea, Choresia, Huacsia, Egilleste_, que significan 'solo' todos de
+por si, y tienen otra significacion particular. _Chorea_, ô _Choresia_,
+significan cada uno 'solo,' y tambien 'desnudo;' y no tiene plural,
+ni mas casos. _Huacsia_, el solo, ò ella sola: su plural _Aisasia_;
+y tampoco tiene mas casos. _Egilleste_ es lo mismo que unico, ô solo;
+y tambien carece de plural, y hace al genero masculino, ò femenino.
+
+_Irugmin_; todos, ò todo, en terminacion neutra; tambien es irregular:
+Lo mismo es _Imiu_, que significa Todos juntos; â quienes se les agrega
+_Irugsun_ que dice: Todos sin quedar uno. Estos tres adjetivos relativos
+son anomalos, ê irregulares, porque son como indeclinables, y mudan,
+ô les faltan algunos casos.
+
+_Añi_; otro. Este relativo tampoco tiene plural, ò por mejor decir, hace
+â singular y plural. _Anpi, Anpitna?_ ¿Qual? _Anpitnane?_ De Qual? es lo
+mismo que el antecedente; tambien es irregular, pues no le he observado
+tenga mas casos que los dichos.
+
+_Ai_; cada uno, ò todos. Es indeclinable, y asi se dice: _Ai tsugis_;
+cada dia, ò Todos los días. _Ai char_; cada luna, ô Todas las lunas, &c.
+
+
+Apendice y Corolario de este Cap. 3^o.
+
+Esta materia de Pronombres primitivos, y derivativos que vienen â ser
+una misma cosa en la voz material de este idioma, se hace preciso
+considerarla para la perfecta inteligencia de las expresiones, de este
+mismo idioma, atendiendo al sentido de la expresion, y no â la corteza
+de las palabras; v.g.: _Attena men?_ ¿Quien (suple _eres_) tu? Responde
+el Indio: _Can_; Yo. Aqui es claro que _Can_ es pronombre primitivo,
+y no derivativo. _¿Attenane lahuan?_ De quien (suple _es este_) arco?
+Responde el indio _Can_; Mio. Aqui el pronombre _Can_ es derivativo
+posesivo _mio_, y no _yo_, porque esto no seria hablar, ò seria hablar
+para no poderse entender. Lo mismo digo de los demas Pronombres....
+
+Explicados el Nombre y Pronombre, se sigue tratar del Verbo. Despues
+dire del Participio, Preposicion (aunque ya he tocado alguna cosa sobre
+esto), Adverbio, Interjecion, y Conjuncion. Pero entiendase lo explicado
+del Nombre propio, comun, denominativo, diminutivo, verbal, y patronimico,
+y del adjetivo positivo, posesivo; y no del comparativo, porque de este
+dire en otra parte; y lo mismo del superlativo, y verbal.
+
+
+
+
+CAPITULO IV.
+
+Del Verbo, sus Tiempos, y sus Modos.
+
+
+Supuesto que el Verbo tiene Modos, y Tiempos, y no casos, se hace
+preciso hablar de los Tiempos, y su formacion, antes que del mismo
+Verbo; pues sabido, y tenido el conocimiento de los Tiempos que tiene
+el Idioma, se entendera facilmente el Verbo, y sus Modos, à pesar de
+que hallo un no se que, que no me es facil encontrar reglas, analogia,
+ni proporcion para comparar los Tiempos, y Modos de esta lengua con
+los de las dos que conozco, que son la Nativa, y Latina.
+
+Solo hay tres Tiempos en la Naturaleza, dice nuestra Gramatica
+Castellana; y estos se verifican muy bien en esta de los Mutsunes:
+Presente, Preterito, y Futuro; el Presente se conoce en cosa que se
+esta haciendo, el Preterito en la cosa ya pasada, y el Futuro consiste
+en la cosa que esta por venir; que no se hace ni se ha hecho, pero se
+hara. Los Tiempos intermedios, y ulteriores de este idioma se miden por
+la distancia del mismo tiempo, y segun distan del presente, tienen
+distintas particulas, ò mejor preposiciones pospuestas, ò antepuestas,
+y algunas terminaciones distintas del mismo Presente. Todo esto se ve
+claro con este ejemplo.
+
+Dar v.g. que en lengua dice: Ará.
+
+TIEMPO PRESENTE.
+
+  Yo doy,                      _Can ará_ ò _Ará can_.
+  Tu das,                      _Men ará_ ò _Ará men_.
+  Aquel da,                    _Nunissia ará_ ò _Ará_ &c.
+
+PLURAL.
+
+  Nosotros damos,              _Macse Ará_.
+  Vosotros dais,               _Macam Ará_.
+  Aquellos dan,                _Nupcan Ará_.
+
+
+Este es tiempo presente y modo indicativo. Pero se ha de notar que este
+y todos los demas Verbos tienen Singular y Plural distintos concertados
+siempre con las personas (se supone de Plural) pero tambien con las del
+singular; y en esto se distingue de las conjugaciones nuestras, y esta
+particularidad es propia de este idioma. En el exemplo puesto se
+advierte el singular y plural del presente de indicativo concertado con
+las personas sin distinta terminacion del Verbo _Ará_, â quien hace ser
+primera, segunda, o tercera persona de ambos numeros la persona que le
+anticipa, ò pospone que tambien está muy bien, y pienso que con mas
+elegancia y propriedad del sintaxis Mutsun. Ahora bien: vamos â ver el
+verbo singular y verbo plural sin salir de dicho exemplo. Verbo singular:
+_Ara_, Dar. Verbo colectivo, ò Verbo plural: _Arsa_, Dar tambien, pero
+Dar à muchos, ò Dar mucho. Conjuguemosle para ver la verdad, y rareza
+que acabo de decir.
+
+TIEMPO PRESENTE DE INDICATIVO.
+
+  Yo doy à muchos, ò mucho,    _Can arsa_, ò _Arsa ca_.
+  Tu das à muchos, ò mucho,    _Men arsa_, ò _Arsa men_.
+  Aquel da, &c.                _Nunissia arsa_, ò _Arsa Nunissia_.
+
+
+Yo, Tu, Aquel son personas, y numero singular, y el verbo es plural;
+porque aquellas hablan de uno, y el verbo de muchos; por lo que dije
+que hay verbo singular y verbo plural, propios solo de este lenguage,
+y acaso de otros no conocidos por mi; y aqui se ve concertado el verbo
+plural con personas del numero singular. Sigamos ahora los Tiempos del
+Verbo.
+
+Ya se ha dicho el presente de indicativo, y su conocimiento. El tiempo
+de Preterito en este idioma tiene estos adverbios figurados, y sin
+figura: _Itzs; Ar; cus; hocs;_ y las terminaciones siguientes: los
+acabados en _a, as_, y _an_: los que concluyen en _e, es_, y _en_;
+los en _i, is_, y _in_; los en _o, os_, y _on_; y los en _u, us_,
+y _un_; y todos acaben como quiera tienen un _cun_, que hace el verbo
+ser preterito; es decir, que tienen los verbos de esta lengua siete
+preteritos à lo menos. Digo à lo menos porque hay un _munná_, que hace
+â preterito y futuro; y contandole, son ocho preteritos. Vuelvo a
+repetirlos antes de conjugarlos.
+
+
+PRETERITOS FIGURADOS.
+
+  _Itzs, ar, cus, hocs_; y tres terminaciones de dichos a saber:
+
+  _as, an_  -.
+             |
+  _es, en_   |
+             |
+  _is, in_   +  _cun_; y con el _munná_ son ocho.
+             |
+  _os, on_   |
+             |
+  _us, un_  -'
+
+
+PRETERITOS SIN FIGURA DE QUE DESPUES HABLARE.
+
+_Itzshia, aru, cus, hocse, munnás_. _Itzs, Itzshia_ significa poco ha,
+ò ahorita. _Ar_, y _Aru_ es lo mismo que pocas horas hace, ô antes.
+_Cus_ hace algun tiempo, como de un mes arriba. _Hocse_, hace mucho
+tiempo. _Munnás_ hace muchisimos años. Las terminaciones dichas de _as_,
+_an_, &c., sirven mejor para preguntar que para responder del tiempo
+pasado. Todo esto iremos explicando en lugares respectivos; y hablemos
+de los preteritos insinuados antecedentemente.
+
+PRIMER PRETERITO CON EL ADVERBIO AR.
+
+  Yo daba, estaba, y andaba dando, _Can ar arán_.
+  Tu dabas, &c.,                   _Men ar arán_.
+  Aquel daba, &c.,                 _Nunissia ar arán_.
+  Nosotros datamos, &c.,           _Macse ar aran_.
+  Vosotros dabais, &c.,            _Macam ar aran_.
+  Aquellos daban, &c.,             _Nupcan ar aran_.
+
+SEGUNDO PRETERITO CON EL ADVERBIO ITZS.
+
+  Yo daba, ò di,                   _Can itzs aran_.
+  Tu dabas, ò diste,               _Men itzs aran_.
+  Aquel daba, ò dio,               _Nunissia itzs aran_.
+
+
+El Plural es lo mismo, guardando el orden del Singular, añadiendo
+las personas dichas en los tiempos ya explicados, y esta misma regla
+seguiremos en los demas tiempos, verbos, y conjugaciones que no tengan
+excepcion.
+
+TERCER PRETERITO CON EL ADVERBIO CUS.
+
+  Yo di,                       _Can cus arás_.
+  Tu diste,                    _Men cus arás_.
+  Aquel dio,                   _Nunissia cus arás_.
+
+QUARTO PRETERITO CON EL ADVERBIO HOCS.
+
+  Yo di (hace mucho tiempo),   _Can hocs arás_.
+  Tu diste, &c.,               _Men hocs arás_.
+  Aquel dio, &c.,              _Nunissia hocs arás_.
+
+QUINTO PRETERITO CON EL ADVERBIO MUNNA.
+
+  Yo di (ha muchisimo tiempo), _Can hocs munná arás_.
+  Tu diste, &c.,               _Men hocs munná arás_.
+  Aquel dio, &c.,              _Nunissia hocs munná arás_.
+
+Siguen los otros tres Preteritos acabados en _as, an_, y _cun_.
+
+SEXTO PRETERITO CON LA TERMINACION AN.
+
+  Yo di,                       _Can arán_.
+  Tu diste,                    _Men arán_.
+  Aquel dio,                   _Nunissia arán_.
+
+SEPTIMO PRETERITO CON LA TERMINACION AS.
+
+  Yo di (hace algun tiempo),   _Can arás_.
+  Tu diste, &c.,               _Men arás_.
+  Aquel dio, &c.,              _Nunissia arás_.
+
+OCTAVO PRETERITO CON LA TERMINACION CUN.
+
+  Yo di,                       _Can arascun_.
+  Tu diste,                    _Men arascun_.
+  Aquel dio,                   _Nunissia arascun_.
+
+OTRO PRETERITO QUE SERA EL NONO CON LA TERMINACION GTE.
+
+  Yo di,                       _Aragte can_.
+  Tu diste,                    _Aragte men_.
+  Aquel dio,                   _Nunissia aragte_.
+
+Plural como en todos los Preteritos; las personas de plural y el verbo
+como se dice en el singular. Se acabo el Preterito con sus nueve
+terminaciones Veamos ahora el tiempo Futuro, su conocimiento, su modo,
+ò conjugacion.
+
+El tiempo Futuro, repito, se conoce en cosa que esta por venir: mas
+como lo que está por venir puede ser, y suceder luego, tarde, y mas
+tarde, por esto este idioma tiene quatro modos de señalarle, que son
+_et_ ô _iete; iti;_ y _munna_ (que dije del Preterito); y _pin_, ô
+_piñi_.
+
+PRIMER FUTURO CON EL ADVERBIO ET.
+
+  Yo dara,                     _Can et_ (ô _iete_) _ará_.
+  Tu daras,                    _Men et_ (ô _iete_) _ará_.
+  Aquel dara,                  _Nunissia et_ (ô _iete_) _ará_.
+
+Plural lo mismo que dijimos; se ponen las personas de plural, y el
+verbo como en el singular.
+
+SEGUNDO FUTURO CON EL ADVERBIO ITI.
+
+  Yo dare (despues de muchos dias,)    _Con iti ará_.
+  Tu daras, &c.,                       _Men iti ará_.
+  Aquel dara, &c.,                     _Nunissia iti ará_.
+
+TERCER FUTURO CON EL ADVERBIO MUNNA.
+
+  Yo dare (pasado muchisisimo tiempo), _Can munná ará_.
+  Tu daras, &c.,                       _Men munná ará_.
+  Aquel dara, &c.,                     _Nunissia munná ará_.
+
+QUARTO FUTURO, CON EL ADVERBIO PIN, O PINI.
+
+  Yo habre dado,                       _Can piñ ará_.
+  Tu habras dado,                      _Men piñ ará_.
+  Aquel habra dado,                    _Nunissia piñ ará_.
+
+
+Esto Adverbio _piñi_ significa _acaso_, ô por ventura; y hace â todos
+los tiempos presente, preterito, y futuro.
+
+Se sigue tratar del Imperativo, advirtiendo que este Idioma solo tiene
+imperativo presente, y no futuro, y es imperativo de 2^a persona de
+singular y plural: mas quando el imperativo se dirige â 1^a persona se
+forma de un modo; quando se dirige a 3^a persona de otro modo; y quando
+â 2^a persona de otro modo; que es cosa particular. Expliquémonos con
+el mismo verbo.
+
+IMPERATIVO PRESENTE DE PRIMERA PERSONA.
+
+  Dame,                        _Arat_, ô _Aratit_.
+  Dadme,                       _Aratityuts_, ô _Aratyuts_.
+
+IMPERATIVO DE 3^A PERSONA.
+
+  Dale,                         _Arai_.
+  Dadle,                        _Araiyuts_.
+
+IMPERATIVO DE 2^A PERSONA.
+
+  Da tu; ô ven, da tu,          _Araya_.
+  Dad vosotros; ô venid, dad,   _Arayayuts_.
+
+OTRO IMPERATIVO DE 2^A PERSONA.
+
+  Date à ti mismo,              _Arapui_.
+  Daos â vosotros mismos,       _Arapuyuts_.
+
+El imperativo de 2^a persona, ô dirigido â 2^a persona en este verbo
+Dar, _Ará_ es medio irregular; mas no en otros verbos, como por exemplo:
+Ven, coge para ti, o Toma para ti; (_ayi_) _oioya_; que es lo mismo que
+decir: Ven a tomar, ô toma para ti: _Ayi, oioya_. Quando se dirige â
+primera persona lo regular es formarle con el _nit_, en singular, _y
+mityuts_ en plural. Coge, ô recoge tu para ti; _oiomit_. Recoged para
+mi: _oiomityuts_. Nada mas hay que advertir sobre el Imperativo quando
+con el se manda venir, y pedir. Mas quando con el Imperativo se despacha
+à hacer qualquier cosa, se forma de esta suerte: Al verbo presente
+indicativo, ó infinitivo, se añade un _is_; v.g.: _Arais_; vete à dar;
+_Magiis_; vete â cerrar: ô en mejor romanze: Anda tu, da; Anda tu,
+cierra: y asi en todos los verbos, è imperativos, quando con ellos se
+manda ir, ó se despacha. Es quanto he observado en el particular, y otras
+cosos que no todo se puede decir de una vez.
+
+Siguese el presente de Subjuntivo, û Optativo; y es el Tiempo en que he
+gastado mas tiempo que en todo lo demas de este indio lenguage, sin
+poder comprehender, si tiene esta lengua semejante tiempo presente de
+Subjuntivo riguroso, teniendo Ojala, û Ojala que, ô Con tal que, Quando,
+Aunque, u otras particulas ô romanzes castellanos, que llevan la oracion
+à subjuntivo; mas sin dichas particulas no tiene semejante tiempo, v.g.:
+Yo de, Tu des, Aquel dé; no se pueden decir estas oraciones asi como
+suenan en tiempo presente de Subjuntivo en nuestra lengua; sino que se
+han de hacer, ô por presente de indicativo, ô por futuro imperfecto.
+A mas de esto, no entiendo, porque _Dé aquel_ en imperativo es futuro,
+y _Aquel dé_ sea presente, como dicen, de subjuntivo. Si hay alguna
+particula que le lleve â subjuntivo, lo sera en realidad; pero si no la
+hay, tan futuro es _Aquel dé_, como _Dé aquel_ (S.Y.).
+
+El modo subjuntivo por si solo no tiene ni hace perfecto sentido; pues
+si lo hiciera no seria subjuntivo, â quien siempre se le junta algun
+verbo antecedente, ó alguna particula de donde pende su entera y completa
+significacion. Considerado de este modo, el Presente de Subjuntivo, es
+propio de esta lengua tambien; pero inclinandose á tiempo futuro. Esta
+oracion v.g.: Esta bien que yo dé cuchillos â los hombres; _Tappan cat
+ara tsarese tsipese_. Otra; Quando tu des; _Cochop met ara_; y asi en los
+demas romanzes con qualquiera verbo que es medio futuro. _Cat_, _met_,
+es lo mismo que _men_, _iete_, _can iete_, que son adverbios de futuro.
+Mas que no me creas; _Yela men cat at ec massia_. Aqui tenemos el mismo
+subjuntivo con quatro figuras que dire en el sintaxis.
+
+PRESENTE DE SUBJUNTIVO.
+
+  Yo de,                       _Cat ará_.
+  Tu des,                      _Met ará_.
+  Aquel de,                    _Nunissiat ará_.
+  Nosotros demos,              _Macset ará_.
+  Vosotros deis,               _Mucam et ará_.
+  Aquellos den,                _Nupcan et ará_.
+
+
+Se entiende todo segun dejo explicado arriba; y se sigue el Preterito
+de Subjuntivo. Pero antes que lo conjuguemos, es preciso advertir el
+riguroso Subjuntivo de esta lengua, si me puedo explicar asi. Dicen
+estos Neofitos: No quieras; _Men unisi_, ó _Men unispu_. No cojas;
+_Men óyo_. No llores; _Men guarca_. No guiñes; _Men cuyurpu_. No comas;
+_Men ama_. No rias; _Men mai_, &c.: que todos son Subjuntivos sin
+expresar el adverbio _ecue_, que quiere decir _no_. Mas si se ha de
+expresar, no se puede usar del _ecue_, ó _no_; sino que se ha de
+anteponer otro adverbio que significa no; y es _epsie_, que siempre
+lleva la oracion â Subjuntivo, ó â Futuro. _Epsie men unisi: Epsie
+men óyo: Epsie men guarca: Epsie men Cuyurpu_, &c.: No quieras; No
+cojas; No llores; no guiñes, &c. Esto mas pertenece al Sintaxis; pero
+para tener esto comprendido, y hablar del Presente del Subjuntivo, he
+significado mi modo de entender el riguroso y raro subjuntivo de este
+idioma.
+
+PRETERITO DE SUBJUNTIVO.
+
+Este Tiempo de esta lengua tiene tres terminaciones bien conocidas;
+y son: _tuene; imateun_, y _teun_, y un _cochop_ que unas veces quiere
+decir _si_, otras _quando_, y otras _siempre_; y con estas terminaciones
+se forma el Preterito de Subjuntivo.
+
+_Exemplo_.
+
+  Yo diera, o diese,      _Imatcun ca ará_; ô _Cochop tuene ca ará_.
+  Yo daria,               _Aratcun ca_.
+  Tu dieres, ò dieses,    _Imatcun men ará_; ô _Cochop tuene men ará_.
+  Tu darias,              _Iratcun men_.
+  Aquel diera, ò diese,   _Imatcun nunissia ará_; ò _cochop_. &c.
+  Aquel daria,            _Aratcun nunissia_.
+
+
+El Plural de este Preterito se hace como dije en los demas tiempos,
+que quedan declarados. Estas condiciones, adverbios, ô particulas que
+anteceden, ô se posponen, y siempre acompañan al modo, y tiempo de
+subjuntivo, hacer ser al tiempo ya preterito imperfecto, con sus
+romances de nuestra castilla, y su valor; ya preterito perfecto;
+ya plusquam perfecto; y ya futuro de subjuntivo. Y con esto queda
+explicado el tiempo, su conocimiento el modo, y conjugacion del verbo
+Dar, ô _Ará_: el que repetire todo, para que se quite la confusion que
+puede causar tanta advertencia que ha sido preciso hacer; y luego dire
+otras particularidades que hay sobre todo verbo en este idioma, y sobre
+esta materia.
+
+
+Voz activa. Indicativo.
+
+TIEMPO PRESENTE.
+
+  Ara: _Dar_.
+
+  Yo doy,                          _Can ará_; ô _Ará can_.
+  Tu das,                          _Men ará_; ô &c.
+  Aquel da,                        _Nunissia ará_, &c.
+  Nosotros damos,                  _Macse Ará_, &c.
+  Vosotros dais,                   _Macam Ará_, &c.
+  Aquellos dan,                    _Nupcan Ará_.
+
+PRETERITO 1^o CON EL ADVERBIO ITZS.
+
+  Yo di (poquito hace),            _Can itzs arán_.
+  Tu diste, &c.,                   _Men itzs arán_.
+  Aquel dio, &c.,                  _Nunissia itzs arán_.
+  Nosotros dimos, &c.,             _Macse itzs arán_.
+  Vosotros disteis, &c.,           _Macam itzs arán_.
+  Aquellos dieron, &c.,            _Nupcan itzs arán_.
+
+PRETERITO 2^o CON EL ADVERBIO AR.
+
+  Yo daba (hace rato),             _Can ar arán_.
+  Tu dabas, &c.,                   _Men ar arán_.
+  Aquel daba, &c.,                 _Nunissia ar arán_.
+  Nosotros dabamos, &c.,           _Macse ar arán_.
+  Vosotros dabais, &c.,            _Macam ar arán_.
+  Aquellos daban, &c.,             _Nupcun ar arán_.
+
+PRETERITO 3^o CON EL ADVERBIO CUS.
+
+  Yo di (hace mucho tiempo),       _Can cus arás_.
+  Tu diste, &c.,                   _Men cus arás_.
+  Aquel dio, &c.,                  _Nunissia cus arás_.
+  Plural, como diximos.
+
+PRETERITO 4^o CON EL ADVERBIO HOCS.
+
+  Yo di (hace muchisimo tiempo),   _Can hocs arás_.
+  Tu diste, &c.,                   _Men hocs arás_.
+  Aquel dio, &c.,                  _Nunissia hocs arás_.
+
+PRETERITO 5^o CON EL ADVERBIO MUNNA.
+
+  Yo di (desde tiempo inmemorial), _Can munna arás_.
+  Tu diste, &c.,                   _Men munna arás_.
+  Aquel dio, &c.,                  _Nunissia munna arás_.
+
+PRETERITO 6^o CON LA TERMINACION AN.
+
+  Yo di (sin determinar tiempo),   _Can arán_.
+  Tu diste, &c.,                   _Men arán_.
+  Aquel dio, &c.,                  _Nunissia arán_.
+
+PRETERITO 7^o CON LA TERMINACION AS.
+
+  Yo di (quien sabe quando),       _Can arás_.
+  Tu diste, &c.,                   _Men arás_.
+  Aquel dio, &c.,                  _Nunissia arás_.
+
+PRETERITO 8^o CON LA TERMINACION CUN.
+
+  Yo di (hace algun tiempo)        _Can araicun_.
+  Tu diste, &c.,                   _Men araicun_.
+  Aquel, dio, &c.,                 _Nunissia araicun_.
+
+PRETERITO 9^o CON LA TERMINACION GTE.
+
+  Yo di (ya),                      _Can aragte_.
+  Tu diste, &c.,                   _Men aragte_.
+  Aquel dio, &c.,                  _Nunissia aragte_.
+
+FUTURO 1^o CON EL ADVERBIO ET Ô IETE.
+
+  Yo dare (luego ô despues),       _Can et_ (ô _iete_) _ará_.
+  Tu daras, &c.,                   _Men et_ (ô _iete_) _ará_.
+  Aquel dara, &c.,                 _Nunissia et_ (ô _iete) _ará_.
+
+FUTURO 2^o CON EL ADVERBIO ITI.
+
+  Yo dare (despues de muchos días), _Can iti ará_.
+  Tu daras, &c.,                    _Men iti ará_.
+  Aquel dara, &c.,                  _Nunissia iti ará_.
+
+FUTURO 3^o CON EL ADVERBIO MUNNA.
+
+  Yo dare (pasados muchos años),   _Can múnna ará_.
+  Tu daras, &c.,                   _Men múnna ará_.
+  Aquel dara, &c.,                 _Nunissia múnna ará_.
+
+FUTURO 4^o Ó PERFECTO, CON EL ADVERBIO PIÑ.
+
+  Yo habre dado (acaso),           _Can piñ arán_.
+  Tu habras dado, &c.,             _Men piñ arán_.
+  Aquel habra dado, &c.,           _Nunissia piñ arán_.
+
+IMPERATIVO PRESENTE DE 1^A PERSONA.
+
+  Dame,                            _Arat_, ò _Aratit_.
+  Dadme,                           _Aratyuts_, ô _Aratityuts_.
+
+IMPERATIVO DE 2^A PERSONA.
+
+  Date, ò Da para ti,              _Araia_.     } Es irregular
+  Daos, ò Dad para vosotros,       _Araiayuts_. } este imperativo.
+
+IMPERATIVO REGULAR CON UNION DE 2^A PERSONA.
+
+  Coge para ti; ô: Ven coge para ti.
+  Coged para vosotros; ô: Venid, coged &c.
+
+IMPERATIVO DE 3^A PERSONA.
+
+  Dale,                            _Arai_ (ahora)--_Arati_.
+  Dadle,                           _Araiyuts--Aratiyuts_.
+
+OTRO IMPERATIVO DE 2^A PERSONA.
+
+  Date; ô entregate,               _Arapui_.
+  Daos, ô entregaos,               _Arapuiyuts_.
+
+OTRO IMPERATIVO DE 2^A Y 3^A PERSONA.
+
+  (Anda) Dale ô Dadles,            _Arais_ (_Otsso_)     } sin expresarse
+  (Andad) Dadles,                  _Arais_ (_otssoyuts_.)}   se entiende.
+
+Repito, que no tiene Imperativo futuro este idioma; y si se quiere
+formar ocurrase al futuro que ya está conjugado: y nada mas digo,
+sino que me remito à lo que poco ha dixe del modo Subjuntivo.
+
+PRESENTE DE SUBJUNTIVO.
+
+  Yo de (en cierto tiempo,
+    ô con cierta circunstancia,    _Cat ará_.
+  Tu des, &c.,                     _Met ará_.
+  Aquel de, &c.,                   _Nunissiat ará_.
+
+PRETERITO DE SUBJUNTIVO.
+
+  Yo diera, ò diese,               _Imatcun can ará_;
+                                    ô _Cochop tucne can ará_.
+  Yo daria,                        _Aratcun ca_.
+  Tu dieras, ò dieses,             _Imatcun men ará_;
+                                    ô _Cochop tucne men ará_.
+  Tu darias,                       _Aratcun me_.
+  Aquel diera, ò diese,            _Imatcun nunissia ará_;
+                                    ô _Cochop tucne nunissia ará_.
+  Aquel daria,                     _Aratcun nunissia_.
+
+Segun el contexto de la Oracion estos dichos modos de Subjuntivo
+hacen à nuestros tiempos de castellano Preterito perfecto, imperfecto,
+y plusquam perfecto, y Futuro de Subjuntivo, aplicandolos debidamente
+como ya dixe en su lugar. De este Verbo _Ará_, ô _Dar_ sale un numero
+crecido de verbos; y lo mismo sucede con casi todos los verbos; de que
+resulta un numero grande de inflexiones como deribadas del principal,
+[-u] original. Salen de Ará:
+
+  _Arsa_,        Dar mucho ò à muchos. Por esto le llamo verbo plural.
+  _Arámu_,       Darse, ô entregarse uno â otro, los dos.
+  _Arsápu_,      Darse unos â otros.
+  _Arápu_,       Darse uno â si mismo, ô entregarse.
+  _Arácsi_,      Dar bien perfectamente.
+  _Arási_,       Mandar dar.
+  _Arámiste_,    Suplicar dar.
+  _Arásu_,       Ir â dar.
+  _Arána_,       Ir â dar------_Arastapse_,          Se dio tiempo ha.
+  _Araiñi_,      Venir à dar------_Arastap_,         Se dio tiempo ha.
+  _Aráu_,        Quando se da: ô el tiempo de dar.
+  _Aragne_,      Se da------_Arargnis_,              Se dio poco ha.
+  _Aragnit_,     No sea que le dé.
+
+Esta voz _Ará_ tiene très significados. Es verbo, y significa _Dar_.
+Es conjuncion, y significa _Y_. Es adverbio, y significa _despues_,
+ô _luego_. Tambien es palabra de mofa, que la usan los muchacos.
+
+OTRO EXEMPLO.
+
+Omitidas las conjugaciones de este verbo, v.g.: _Oio_, Coger; saquemos
+todos sus deribados, como arriba del verbo _Ará_.
+
+  Oio: coger. Verbo particular, ò singular.
+  Oiso: coger mucho, ô muchos. Verbo plural.
+  _Oio_,              Coger.
+  _Oiso_,             Coger mucho, ô muchos.
+  _Oimu_,             Cogerse uno à otro; los dos.
+  _Oisopu_,           Cogerse muchos â muchos.
+  _Oipu_,             Cogerse â si mismo.
+  _Oiocsi_,           Coger bien perfectamente.
+  _Oiosi_,            Mandar coger.
+  _Oiomiste_,         Suplicar coger.
+  _Oiou_, ô _oiohu_,  Quando se coja, ò en tiempo de coger.
+  _Oiona_,            Ir â coger.
+  _Oiñi_,             Venir à coger.
+  _Oiosu_,            Ir a coger.
+  _Oiogne_,           Le coge.
+  _Oioinicane_,       Quando le coge.
+  _Oioguit_,          No sea que le coja.
+  _Oiostapse_,        La cogio, ò cogieron, ó fue cogida.
+  _Oiostap_,          La cogio, ô (lo mismo).
+  _Oiognis_,          Fué cogida, ô la cogieron, &c.
+
+Esta voz _Oió_ se toma tambien por hacer; v.g.: _Ista ca oiona?_
+Que voy á hacer? _¿Istam tina oio?_ Que haces tu?
+
+Siete verbos nacen del primitivo; y algunos le siguen en la conjugacion,
+y otros no. Unos son verbos plurales; y otros tienen los dos numeros
+singular y plural. Veamoslo en los exemplos dichos.
+
+  _Ara;_      Dar. Verbo primitivo, y regular conjugable por los
+                tiempos dichos.
+  _Arsa;_     Dar a muchos, ò mucho. Verbo plural que se conjuga
+                en numero singular y plural.
+  _Aramu_.    Tiene solo plural. Irregular.
+  _Arsapu_.   Regular.
+  _Arapu_.    Es lo mismo en la conjugacion, que el primitivo.
+  _Aracsi_.   Tambien sigue â su original.
+  _Arasi_.    Se conjuga lo mismo que el primitivo.
+  _Aramiste_. Tiene la misma conjugacion que su primitivo.
+
+Lo mismo se verifica en el otro exemplo, y en la mayor parte de verbos.
+Mas para no confundirse, solo dixe del dicho exemplo.
+
+  _Oio;_      Coger. Verbo primitivo y regular, que se conjuga por
+                todos los dichos tiempos.
+  _Oiso_.     Verbo plural, que se conjuga por tiempos, y numeros
+                singular y plural.
+  _Oimu;_     Solo tiene plural. Irregular.
+   û _Oromu_.
+  _Oisopu_.   Regular.
+  _Oipu_.     Es lo mismo en todo que el primitivo.
+  _Oiocsi_.   Tambien sigue â su original.
+  _Oiosi_.    Se conjuga lo mismo que el primitivo.
+  _Oiomiste_. Tiene la misma conjugacion que su primitivo.
+
+Voy à repetir todos los verbos plurales, y regulares deribados, y un
+irregular, que salen de un verbo solamente.
+
+  1. Ará.
+     Arsa.
+  2. Arápu.
+     Arsápu.
+  3. Arási.
+     Arsási.
+  4. Arácsi.
+     Arsácsi.
+  5. Arámiste.
+     Arsámiste.
+  6. Araiñi.
+     Arsaiñi.
+  7. Arána.
+     Arsána.
+  8. Arsáa.
+     Arsásu.
+  9. Aráhu.
+     Arsáhu.
+ 10. Arainicane.
+     Arsainicane.
+ 11. Arágne.
+     Arsagne.
+ 12. Araguit.
+     Arsaguit.
+ 13. Arástap.
+     Arsástap.
+ 14. Arastapse.
+     Arsastapse.
+ 15. Aráguis.
+     Arságuis.
+ 16. Arámu.
+     Arsamu.
+
+Tenemos aqui 32 palabras, que las 31 de sola una; y conjugadas las que
+son verbos regulares, plurales, y el irregular, saldría un numero muy
+considerable que llenaria algunas paginas de pliego entero: por lo que
+las omito; pues aunque no seria superflua, seria â lo menos enfadosisima
+tanta conjugacion de un solo verbo. Nota tambien: que todos los que
+estan numerados, son verbos _singulares_, y los no numerados son
+_plurales_; y seis solos son conjugables por todos los tiempos dichos;
+y uno solo es irregular, porque solo tiene numero plural, y porque
+siempre se conjuga por _nos_, _vos_, _illae_, vel _illi_, 1^a 2^a y 3^a
+persona.
+
+Hasta aqui solo he hablado de los tiempos, de la conjugacion, y de los
+modos de los verbos de este idioma. Mas ahora es preciso reunir todo lo
+dicho en pocas palabras, para la mas facil comprehension. Los tiempos
+que esta lengua admite se determinan, ô por los adverbios que anteceden,
+ò se posponen al verbo; ò por la terminacion del mismo verbo, haciendole
+presente, preterito, ô futuro; de lo que nada queda que advertir, y
+entendidos bien los tiempos queda explicada la conjugacion per ellos.
+Tambien he tratado del Infinitivo de presente, que es como suena el
+verbo en qualquiera de las personas del presente de Indicativo; mas es
+preciso hablar del Infinitivo preterito y futuro; del Gerundio, del
+Participio tambien de presente, preterito y futuro.
+
+  Infinitivo de presente,          _Ara_: Dar.
+  Infinitivo de pretérito,         _Arapis_: Haber dado.
+  Infinitivo de futuro,            _Et ará_: Haber dado.
+  Gerundio,                        _Cochop aragne, ô aragne_: dando.
+  Participio de presente,          Dante.
+  Participio de pretérito,         Dado.
+  Participio de futuro,            Habiendo de dar.
+
+Queda explicado el tiempo, el modo, y la conjugación del verbo; y con
+este exemplo se forman â su semejanza casi todos los de este idioma
+Mutsun. Mas adviértase que como el infinitivo de qualquier tiempo, y el
+participio de qualquier tiempo, nunca están por si solos en la oración,
+con completo sentido, sino que este pende ò de un verbo determinante, ò
+de alguna persona, ô de alguna preposición, &c., todo infinitivo y
+participio se forman en esta lengua, como si se resolvieran en el
+contexto de la oración. De esto hablare en el sintaxis.
+
+
+
+
+CAPITULO V.
+
+Del verbo que significa la existencia, acción, ò pasión de las
+personas, ò cosas.
+
+Ya hablé del verbo en quanto à sus terminaciones, modos, tiempos,
+numeros y personas; dexando asentado que hay verbo particular ô singular
+y verbo plural. Ahora solo he de tratar del verbo, y su significación
+como dixe arriba, y de su división. Es tan grande la división de los
+verbos que si de todos hubiese de tratar, seria preciso detenerme mas de
+lo que pide este Capitulo, y una Gramática de Lengua (digámosla)
+inculta, y sin haber conocido hasta ahora, carácter, regla, ni precepto
+alguno, sino como la naturaleza la ha inventado. Asi diré solo de el
+verbo substantivo, Activo, Neutro, y Reciproco, dexando para el sintaxis
+los verbos meditativos, deponentes, frequentativos, diminutivos,
+defectivos, impersonales, pasivos, de natura de lengua, y demás que
+trahen los Autores latinos; que si de estos hablo, sera aqui como de
+paso.
+
+Sección 1^o. Del Verbo Substantivo. Este verbo es el que explica,
+enseña, y significa la existencia de las personas, ò cosas: como _Ser_,
+_Estar_, _Haber_. Este idioma carece del verbo substantivo y auxiliar en
+la signifacion de _ser_ rigurosamente y parece ser este un defecto
+grande, porque no se pueden explicar las cosas que con el explicamos en
+los quince sentidos que le usamos, y de que nos valemos, quando
+conviene. Mas como todo lenguage ha sido inventado para descubrir los
+sentimientos del alma: "Ad sensus animi exprimendos oratio reperta"; el
+lenguage de estos Indios ha inventado ciertas palabras que suplen este
+verbo tan esencial à nuestro idioma, y no asi al suyo; y por eso, dixé,
+parece ser defecto grande de esta lengua carecer del verbo _ser_, y no
+lo es en realidad de verdad, porque tienen estos Indios palabras, ô
+voces con que manifiestan de distinto modo que nosotros, todos sus
+conceptos, y sentimientos. Qualquiera que adquiera y posea al
+conocimiento verdadero del sintaxis de otro idioma, en nada, ô casi
+nada, semejante al nuestro, y al latino, ha de conocer, y confesar esta
+verdad, si concede primero que _ad sensus animi exprimendos oratio
+reperta est._ CALEP. v. _ex primo_.
+
+En esta oración por exemplo: ¿Y eso que es? _Ene pina_ (dice el indio)
+_intsis iha?_ En esta oración, no hay tal verbo _es_; pues vertida
+materialmente dice asi: _¿Ene_, Pero, mas, ô y _pina_ eso, _intsis_ que,
+_iha_ tambien? que junto dice: _¿Y eso que tambien?_ Sin embargo, asi
+expresa el Indio su concepto, como se expresa en castellano con el verbo
+_es_. En este idioma pues no hay, ni es necesario el verbo substantivo
+_ser_; pero si el _estar_ muy distinto del nuestro.
+
+Sección 2^o. Si Estar se toma por _ser_, tambien carece de este
+verbo este idioma; pero si se toma por existir, ô estar actualmente, ô
+hallarse en algun lugar, repito, que le tiene, pero muy distinto de
+nuestro castellano, porque nosotros usamos sin distincion del _estar_,
+sea de cosas animadas, sea de inanimadas. Asi decimos: está el hombre;
+está el dinero; está Dios; está el palo, &c. Mas este idioma usa de dos
+verbos que significan _estar_: uno significa las cosas animadas,
+espirituales; y otro las inanimadas. _Tsahora_ sirve para las primeras,
+y _Rote_ para las segundas; y asi dicen estos naturales.
+
+  Yo estoy, ô existo, ó me hallo,        _Can tsahora_.
+  Tu estas, ó existes, ô te hallas,      _Men tsahora_.
+  Aquel está, ô existe, ó se halla,      _Nunissia tsahora_.
+
+Asi respectivamente en todos los tiempos que diximos del verbo Dar:
+_Ara_. Mas quando se habla de cosas inanimadas usan de _Rote_; v.g.: La
+piedra está, existe, hay, ô se halla; _Irec rote._ Otro exemplo: Alli
+hay, ó está, ó existe, ô se halla, el cuchillo; _Nú rote tsipe_. Y asi
+de todos los entes inanimados. Quando el verbo ser es preterito
+perfecto, como v.g.: Yo fui, Tu fuiste; Aquel fué, &c., este tiempo se
+dice muy bien: _Can rotes; men rotes; nunissia rotes_: pero no se puede
+usar de ser, ô haber sido _rotes_ en otro tiempo. Tiene otra voz que
+significa _estar_, haber, ô existir, que es _Nua_; y asi se dice: Alli
+hay, existe, o está un hombre; _Nua emetscha tsares._ Alli hay, existe,
+ò está un palo; _Nua emetscha tapur:_ pero se comete la figura elipsis,
+cuyo uso es muy frequente en este idioma; de lo que dixe largamente en
+su lugar.
+
+Sección 3^o. Tampoco tiene este idioma el verbo auxiliar y substantivo
+_Haber:_ mas tomado por _Tener_ ó _Poseer_, si le tiene; pero no es como
+aquí se indaga, sino en el sentido riguroso de tener; y no como verbo
+auxiliar, que se une á todos los tiempos de activa para conjugar los
+verbos. Mas ya dixe lo que sentia à cerca de este verbo auxiliar en el
+primer párrafo de este 5^o Capitulo: y digamos del verbo Activo.
+
+Sección 4^o. Verbo Activo. El verbo Activo es el que pide ò rige
+acusativo de persona que padece, ô aquel cuya accion, y significacion à
+otra cosa que es su termino, con preposicion, ò sin ella; v.g.: Quiero à
+Dios: Aborezco el vicio: Acuso à Juan, &c.; que todo el que ha estudiado
+Gramatica Castellana, ô latina, sabe. A esta clase de verbos se reducen
+la mayor parte de los que usa este idioma; y todos se conjugan como el
+verbo Dar: _Ará_; ò por mejor decir, una sola regla sirve para conjugar
+todos los verbos, sean de la clase que fueren; y esta es la que di
+quando trate de los tiempos, y modos del verbo de este idioma, que no
+admite las irregularidades que se notan en los de nuestra castilla; pues
+sabido el infinitivo de presente, sea su terminacion como quiera,
+siempre tienen los mismos adverbios que terminan los tiempos, y las
+mismas terminaciones que tengo explicadas en el referido lugar, y se
+conjugan todos como llevo expuesto.
+
+Sección 5^o. Voz pasiva de los verbos. Como queda asentado que
+este idioma no tiene el verbo substantivo _Ser_, con el que nosotros
+formamos en castilla las pasivas de los verbos, se da por supuesto que
+los verbos de este idioma no tienen pasiva semejante â la nuestra, ni â
+la latina, que es la que tiene verdaderas voces pasivas en casi todos
+los tiempos, quando el verbo las admite. Hago este supuesto, porque como
+es preciso proporcionar y asimilar nuestro idioma, con este para formar
+idea de el, sin este recurso no nos entenderiamos. No tiene mas voces
+pasivas que las siguientes; v.g.: en el verbo dicho _Ará_, Aragne,
+Aragne, nuc, me
+
+  Aragnis
+  Arastapse
+  Arastap.
+
+Estas se pueden llamar voces pasivas, porque se distinguen de las
+activas en quanto â su terminacion; y porque con ellas se forman unas
+oraciones segundas de pasiva. Se da; Le dan; Te dan; Nos dan; Os dan;
+Les dan; Me dan: se dice; _Aragne_, añadiendo la persona, ô cosa. Quiero
+decir; que quando en la oracion castellana vienen estos romances: _me,
+te, se, nos, vos, los_, se forman segundas de pasiva; lo mismo es en
+esta lengua; me dan, te dan, le dan, se da, nos dan, os dan, les dan, se
+dan; se dice: _Aragneca, Aragneme_, &c. Este _Aragne_ es tiempo
+presente, y no tiene mas terminacion, y hace â todas las personas de
+singular y plural. Esta otra voz pasiva: _Aragnis_ es de tiempo pasado,
+y es lo mismo que la antecedente. Me dieron, Te dieron, Le dieron, Nos
+dieron, Os dieron, Les dieron (esto es, entregaron); decimos:
+_Aragnisca, Aragnisme_, &c.: y lo mismo son _Arastap_, y _Arastapse_. Me
+entregaron, ô dieron, Te entregaron, ò dieron, &c.: romanceadas de otra
+suerte en castilla estas oraciones; v.g.: Yo fui entregado; Tu fuiste
+entregado; Aquel fue entregado; Nosotros fuimos entregados, &c.: se
+dice: _Arastapca; Arastapme_; &c. Es quanto puedo decir sobre la voz
+pasiva que he encontrado en todos los verbos que usan estos indios. Usan
+tambien de otra especie de pasiva, ô tienen otras expresiones en las
+impersonales, que en nuestra Gramatica latina se hacen en pasiva, aunque
+las terminaciones son en activa, y podemos llamarlas pasivas; v.g.:
+Dicese, ô se dice, que te dan; Dicese, que te han de dar; Dicese, que te
+dieron; ò Dicen, que te entregan; Dicen, te han de entregar; Dicen, que
+te entregaron. En estas, y semejantes impersonales, usan los Indios de
+esta lengua: _Aragne nuc me; Arastap nuc me_. El _nuc_ es lo mismo que
+_dicen_; y lo demas como queda dicho.
+
+Sección 6^o. De los verbos impersonales.
+
+  Amanece: Anochece,               _Acquen: Muren_.
+  Yela: Escarcha,                  _Huacna; Isili_.
+  Llueve: Llovizna,                _Amani: Pisillanme_.
+  Truena: Relampaguea,             _Tsura: Huilpe_.
+  Nieva: Graniza,                  _Yopco: idem_.
+
+En todos estos entienden los Indios el tiempo; ò Dios es el que hace
+estas cosas, después que se les ha explicado. Pero todos estos verbos se
+pueden conjugar por todos los tiempos, presente, preterito, y futuro, y
+admiten en este idioma todas las expresiones que nosotros solemos usar
+quando hablamos de estas cosas. Tampoco tiene verbos compuestos este
+idioma; pero si verbos, palabras, ò voces, que abundan, ô que sobran
+para significar la cosa; ô por mejor decir, usan de ciertos imperativos,
+de ciertos modos, que no se positivamente como se han de llamar estas
+expresiones raras, y son las siguientes que tengo muy presentes.
+
+  _Yu: Yuyuts_,                      Anda: Acaba, &c., y en plural segun
+                                       sea la cosa.
+  _Ayun: Ayuints_,                   Trahe: Trahed.
+  _Ya: Yaints_,                      Toma: Tomad. Coge: Coged.
+  _Ai juri: Ayí: Ayiyuts_,           Ven: venid.
+  _Otso: Otsoyuts_,                  Vetu, ô vete: Id, ô idos,
+                                       (para despedirse.)
+  _Pire: Pireyuts_,                  Sientate; Sentaos.
+  _Yehela: Yelamini: Yelaminiyuts_,  Aguarda, ô espera: Aguardad, ô
+                                       esperad.
+  _Quechigüesi: Quechiguesiyuts_     Haced, &c., ligero, ligeros;
+                                       ô corre: corred.
+  _Camai: Camaiyuts_,                Mira: Mirad.
+  _Quemexei: Quemexeyuts_,           Mira: Mirad.
+
+
+Si uno pregunta por estas voces verbales â un Indio; v.g.: que hay por
+Andar, le dice: _Guate_, ô _Gine_; y esto no tiene conexion con el _Yu_.
+Lo mismo si preguntamos por Aguardar, v.g.: dice: _Tusun: Suti: Tugisi:
+utrasi_: y esto en nada se parece á _Yehela_; y lo mismo á cerca de
+todas las expresiones ô verbos dichos, y las que siguen.
+
+  _Ittie_,            Vamonos.
+  _Ochico_,           No quiero.
+  _Huimacsi_,         Lo siento, Me compadezco.
+  _Catshi_,           Silencio, ô callense.
+  _Gire_,             Mira, Reflexiona.
+  _Mots_,             Pregunto.
+  _¿Motsos?_          ¿Ya esta? ¿Es asi?
+  _Cooy_,             Asi es.
+  _Que_,              Oye: Mira: Atiende.
+  _Quie_,             Quien sabe.
+  _Yu nan_,           Vamos á ver: á ver.
+  _Itque_,            Apártate: dexame.
+  _Ayuguspu_,         Quítate, ô apártate.
+  _Mini_,             Oye: escucha.
+  _Eshierse_,         No dicen, &c.
+  _Eshierase_,        No han dicho.
+  _Nú attia_,         Si (según lo que se hable.)
+
+Todas estas expresiones, y otras que se verán en lo restante de este
+trabajito, causan una confusión mas que mediana, porque no tienen
+proporción, ô tienen muy poca con nuestros modos de hablar.
+
+
+
+
+CAPITULO VI.
+
+Del Participio.
+
+Participio es el que tiene casos, y significa tiempo, y participa del
+nombre y del verbo. Mas examinada bien la natúra del Participio, veo que
+en esta lengua rigurosamente, ni el de presente, ni el de pretérito, ni
+el de futuro; ni encuentro que se use en expresión alguna. Esta oración,
+v.g.: el que ama á Dios, es bueno: _Amans Deum, bonus est_; resuelto el
+Participio: _Ille qui amat Deum, bonus est_. Para hacer esta oracion por
+participio en lengua de estos Indios, no hay voces: es preciso resolver
+el Participio, y decir: _Numan muisin Dios, miste_. Lo mismo digo de los
+Participios de pretérito, y futuro; se han de resolver, si se quiere
+persuadir, ô disuadir alguno cosa, usando, ô hablando con Participio.
+_Tatagte_; barrido: _Topogte_; acabado:_Sicsaste_; manchado: _Cauyiste_;
+secado: _Pasquiste_; harto, ô hartado, &c., aunque en castilla suenan, y
+son todos estos Participios de Pretérito; en lengua materialmente dichas
+palabras dicen: _Se barrió; se acabó; se manchó; se seco; se harto_: y
+no son estos Participios, sino verbos y tiempos de preterito; y de
+consiguente como carece del verbo substantivo _Ser, Tener, Haber_, y
+otros auxiliares, no conoce este idioma Participio activos, ni pasivos:
+mas quanto nosotros podemos decir con los Participios, sin ellos lo
+dicen, y pueden decir los de esta lengua de un modo expresivo è
+inteligible que no tiene semejanza al nuestro, ni le es necesario; pues
+asi como la lengua es distinta, tiene distinto modo para expresarse, sin
+que por esto pueda calificarse de defectuosa, como dixe quando hable del
+verbo substantivo _Ser_.
+
+
+
+
+CAPITULO VII.
+
+Del Adverbio.
+
+El Adverbio, para modificar su significacion, es el que se junta al
+verbo, y à otras partes de la oracion; v.g.: al adjetivo, y participio,
+y alguna vez al substantivo. En esta lengua no solo se junta al verbo,
+y al adjetivo, sino â los pronombres, pero siempre abreviado, ò con
+figura, como vimos en las conjugaciones del verbo, â quien se le
+anteponen y posponen con mucha elegancia. Hay varias clases de
+adverbios, y los irémos tratando separadamente en sus lugares;
+y comienzo por los adverbios de tiempo por haber muchos de esta clase,
+aunque no dexa de haber muchos de cada una de las 23 que nos enseñaron
+en la gramatica latina, y este idioma no puede contar tantas, como
+verémos luego.
+
+
+Adverbios de Tiempo.
+
+  Hoy,            _Naha_. ó: este dia              _Neppe tsugis_
+  Mañana,         _Aruta_--Ayer,                   _Huica_
+  Poco ha,        _Itsa_--Después,                 _Yete_
+  Ahora,          _Naha_--Hace muchisimo tiempo,   _Hocse munna_
+  Al principio,   _Innihuig_--Alguna vez,          _Aipire_
+  De mañana,      _Arua_--Pronto,                  _Quechigüesi_
+  A la tarde,     _Huniacse_--Tarde,               _Itti_
+  Luego,          _Iñaha_--Siempre,                _Imi_
+  Nunca,          _Ecue et_--Otra vez,             _Oisigo_
+  Hasta ahora,    _Tapua_--Entonces,               _Piuagnai_
+  Nunca jamas,    _Ecue imi_--Siempre jamas,       _Imi ietattia_
+  Jamas,          _Ecue êt_--Un ratito,            _Ipsiun_
+  Ahora mismo,    _Chien_--Antes,                  _Aru_
+
+Se ponen aquí las cosas siguientes, no porque sean adverbios, sino por
+ser tocantes al tiempo.
+
+  Al ponerse el sol,               _Pilpilte_.
+  Al anochecer,                    _Sosoronin_.
+  Se ha hecho tarde,               _Huicaste_.
+  Ya es tarde,
+  Anochecio,                       _Murenin_.
+  Amanecio,                        _Aqueste_.
+  Al medio dia,                    _Attigte ismos_.
+  A media noche,                   _Orpehuas ershe_.
+  Poco falta amanecer,             _Yeteste acquenin_.
+  Tiempo de calor,                 _Tsalagui_; ô _Tsirisguai_.
+  Tiempo de frio,                  _Turisguai, Asirim pire_.
+  Tiempo de agua,                  _Amaniguai_.
+  Tiempo de primavera,             _Tiusa pire. Itsnonin pire_.
+  Tiempo de sazonar los frutas,    _Icunin, Putginin, Putgi_.
+  Un mes,                          _Hemetscha char_.
+
+ADVERBIOS DE LUGAR.
+
+  Ahi,           _Tina_.         Aqui,     _Nia. Ne_.   Alli,    _Nu_.
+  Aca,           _Sanac_.        Alla,     _Usiun_.     Aculla,  _Nujana_.
+  Cerca,         _Emegtie_.      Cerquita, _Amatica_.
+  Lexos,         _Caria. Juagistac_.        Mas lexos, _Cariam pire_.
+  Donde. Adonde, _Ani_.          De donde, _Anitum_.
+  Dentro,        _Ramai_.        Fuera,    _Cari_.    De enmedio,  _Orpei_.
+  Arriba,        _Tapere_.       Abaxo,          _Minimui_.
+  Delante,       _Juttui_.       Detras,         _Esentac_.
+  Encima,        _Taperestun_.   Debaxo,         _Minimuitun_.
+  Aqui detras,   _Pi_.           Alli detras,    _Ti_.
+  A la derecha,  _Aimatca_.      A la izquierda, _Aguistac_.
+  Al oriente,    _Jacumui_.      Al poniente,    _Humui_.
+  Al medio dia,  _Cacun_.        Al Norte,       _Acas_.
+  Donde (uno esta) aqui,     _Nia_.
+  Cuesta, ô agua arriba,     _Rini_.
+
+Advierto, que para decir, _desde_, ô _de_, ô _hasta_, se añade un _tun_
+al fin del adverbio; v.g.:
+
+  De alli,         _Nutun_.
+  De alla,         _Usiuntun_.
+  De aculla,       _Nujunatun_. Y asi de los demas adverbios de lugar.
+
+ADVERBIOS DE SIMILITUD.
+
+  Como,          _Cata_.         Asi como,       _Cati Cata_.
+
+ADVERBIOS DE QUANTIDAD, Ô CANTIDAD.
+
+  Mucho,         _Tolon_.        Ya esta,        _Nü attia_.
+  Muchísimo,     _Tompe_.        Bastante,       _Nuia, Nua_.
+  Poco,          _Cutis_.        Tanto,          _Cati_.
+  Muy poco,      _Cuti_.         Quanto,         _Cata_.
+
+ADVERBIOS DE QUALIDAD, Y DE MODO.
+
+  Bien,          _Miste. Utin. Tappan. Umsie. Apsie_.
+  Mal,           _Equitseste_.   Asi,        _Cua. Cuagne_.
+  Quedo,         _Chequen_.      Reciò,      _Gitsepu_.
+  Despacio,      _Elecsi_.       Buenamente, _Umsie_.
+  Alto,          _Tapére_.       Baxo,       _Minimuitis_.
+
+ADVERBIOS AFIRMATIVOS.
+
+  Si,            _Gehe. He. Siocue. Siocueta_.
+  Cierto,        _Amane_.        Es cierto,       _Panane_.
+  Ciertamente,   _Amane_.        Verdaderamente,  _Asaha, Eres_.
+
+ADVERBIOS NEGATIVOS.
+
+  No,          _Ecue. Episie_.   No es asi,  _Ecue at isu_.
+
+ADVERBIOS------
+
+  Acaso,         _Piñi_.         Quiza,      _Epes_.
+
+ADVERBIOS DEMOSTRATIVOS.
+
+  Mira,          _Giré_.         Oie: Mira,  _Camai_.
+
+ADVERBIOS CONGREGATIVOS.
+
+  Todos à una juntos,   _Imentac_.
+  Igualmente,    _Orotse_.       Desordenadamente,  _Rensiecsi_.
+  Continuamente, _Chira_.        Seguido,           _Otsoan_.
+  Vocativo,      _Turi_.
+  La mitad,      _Tsamantac_.    Sonrisa,           _Tchumin_.
+
+Parecera extraordinario algun adverbio; mas dexo otros, porque tienen un
+modo de adverbiar estos Naturales, que en su lengua son adverbios, y en
+la nuestra no. Digo que son adverbios, porque no son otra parte de la
+oracion en su sintaxis: Tambien digo que este idioma no tiene adverbios
+comparativos, y muy pocos de similitud, y con los de esta clase se
+suplen los comparativos; y en esto sigue a la Hebrea, la que vale de la
+preposición _prae_ que los latinos vierten en _ab_ en los comparativos.
+Tampoco tiene genitivo dicha Hebrea, y en esta lo he puesto, no porque
+se distingue de la terminacion del nominativo, sino porque en el
+sintaxis en cosas que piden rigurosamente genitivo, usan de aquella voz
+que se parece al genitivo; y muches veces en la latina lo mismo suena,
+(como dixe en otro lugar) el nominativo, el acusativo, el vocativo,
+y sin embargo por el sintaxis conocemos que caso es.
+
+
+
+
+CAPITULO VIII.
+
+DE LA PREPOSICION Y POSPOSICION.
+
+Si la Preposicion en nuestra gramatica es la que se antepone â las demas
+partes de la oracion para guiarlas al verdadero sentido de relacion,
+ò respeto que tienen entre si las cosas que significan; la Posposicion
+en esta lengua es la que se pospone â las demas partes de la oracion,
+y hace los mismos oficios respecto del sentido de las cosas. Las
+Posposiciones de esta lengua se reducen á las siguientes.
+
+  _Huas_,     Para; ô á; ô al; el, ella, ellos, &c. Dativo.
+  _Se_,       A el; ella; ellos, &c. Acusativo.
+  _E_,        A el; â ella; â ellos; &c. Acusativo.
+  _Ne_,       A el; &c. Acusativo.
+  _Tsa_,      Con el; ella; &c. Ablativo.
+  _Me_,       Con; en casa de, &c. Ablativo.
+  _Tea_,      En.
+  _Tac_,      En.
+  _Um_,       Con; por.
+  _Tum_,      Con.
+  _Sum_,      Con.
+  _Tun_,      Por; de.
+
+Todas las doce Posposiciones, encuentro en el sintaxis; y el significado
+es como dexo expuesto en las columnas. Las demas preposiciones que usa
+nuestra lengua, se suplen en esta con los adverbios de esta misma
+lengua, la que carece de estas preposiciones _contra, entre, hacia,
+hasta_; mas el _sin_ nuestro lo suple con esta voz _atsi_, y esta
+palabra siempre se antepone, y nunca se puede posponer; por lo que no la
+asente entre las Posposiciones, y tambien significa _no_. Todas estas
+Posposiciones tienen la significacion dicha en compañia de las palabras
+que les anteceden; mas por si solas, y fuera de compañia nada dicen, ni
+nunca se encuentran sin el orden que tengo explicado. Otras advertencias
+merece este tratado, las que si ahora se omiten es porque constan de las
+frases dichas (en el Arroyuelo); y porque una cosa es pura Posposicion,
+y otra cosa es Particula. En nuestro Arte Castellano con la explicacion
+de las preposiciones se confunde esto. _Esta carta es para Juan, y esta
+carta es para ganar_, v.g.; no es lo mismo el _para_ en una que en
+otra, aunque suena lo mismo; y esto mas pertenece al sintaxis que no al
+presente asunto.
+
+
+
+
+CAPITULO IX.
+
+DE LA CONJUNCION.
+
+Conjuncion es la traba, y ata las partes de la oracion entre si mismas.
+Hay varias clases de conjuncion. Solo hablare de algunas conjunciones,
+y son las que siguen.
+
+  _Ené_,        Pero: mas; pues.   _Yuta_,     O; u.
+  _Ara_,        Y; luego.          _Imatcun_,  Si; con tal que.
+  _Hia_,        Tambien.           _Aia_,      Tambien.
+  _Hi_,         Y; tambien.        _Yehela_,   Aunque.
+
+Las comunes son: _Aia; Hi; Hia; Ené; Ara_, con el significado que arriba
+dixe. Las tres primeras siempre se posponen, y traban las palabras, los
+verbos, y las oraciones; y asi podemos llamarlas copulativas. Y no se
+que haya otras. Es una confusion grande este tratadito; y asi ire
+poniendo en castilla primero, y luego en idioma.
+
+  Por eso: Por lo tanto,   _Nisiasum_.      Porque no?    _Enem at inca_.
+  De qualquiera manera,    _Ucsi_.
+  Porque,                  _Usi_.           Quando,       _Cochop_.
+  Sino,                    _Cochop ecue_.   Asi como,     _Cati cata_.
+  Porque?                  _Incagtet: Intsista: Intsisum: Inca_.
+
+
+
+
+CAPITULO X.
+
+DE LA INTERJECCION.
+
+  ¡_Atseitac!_   Es lo mismo que quando admirados decimo; oh!
+  ¡_Ha: Nu_,     Estas dos es lo mismo que: Ya oygo: entiendo: si.
+  ¡_Iscane!_     Pobre de mi.
+  ¡_Aná!_        Madre! que se expresa en los dolores.
+  ¡_Que!_        Oye: escucha: atiende.
+  ¡_Minini!_     Idem; pero es quando hay familiaridad entre los que se
+                   hablan.
+
+Queda pues explicado el tratado de las ocho partes de la oracion que
+advierto hay en este idioma; que son: Nombre, Pronombre, Verbo,
+_Participio_, Adverbio, Preposicion, digo Posposicion, Conjuncion,
+ê Interjeccion. Y podemos excluir no solo el Articulo, sino el
+_Participio_; y asi diremos: que son siete las partes de la oracion
+en esta lengua Mutsun.
+
+
+
+
+CAPITULO XI.
+
+De las Figuras del Metaplasmo.
+
+Una de las cosas mas dificiles al principio de aprender esta lengua
+me fue la de entender las figuras que usa, ya de diccion, y ya de
+construccion, de que dire luego.
+
+Metastesis. Es quando se invierten algunas letras que tiene la
+palabra, ô voz; y esta es propia de los niños; que aun casi no pueden
+pronunciar; y las Madres ô Padres les hablan con las letras que tiene la
+voz trastornadas, y fuera del modo con que deben estar; v.g.: _Onlemu_,
+en lugar _Onelmu_, que quiere decir: _Hacer rayas en el suelo_. Otro
+exemplo: _Coor_, en lugar de _Coró_ que quiere decir _Pie_. Y asi de las
+demas palabras de esta figura.
+
+Sinalefa. Es quando una voz acaba en vocal, y la que se sigue es
+tambien vocal, y se calla la vocal de la primera voz; v.g.: _Tsotco aisa
+etse_. Todas estas tres voces acaban en vocal, y â la de enmedio se le
+quita la _a_, y se dice con elegancia _Tsotco ais etse_; que significa:
+Seguido, ô en orden, ellos duermen.
+
+Sincope. Es quando se quita del medio de la voz alguna letra ô
+silaba; v.g.: _Maam_, en lugar de _Macam_.
+
+Apocope. Es quando se le quita alguna letra al fin de la voz;
+v.g.: _Ar_, en lugar, de _Aru_, que quiere decir _antes: me_, en lugar
+de _men_; Tu, &c.
+
+Apheresis. Es quando se quita alguna letra al principio de la
+voz; v.g.: _et_ en lugar de _iet_.
+
+Antithesis. Es quando se pone en la voz una letra por otro; v.g.:
+_hic _en lugar de _hac_ se muda la _a_ en _i_. Es muy corriente esta
+figura como tambien las demas: pero, esta tiene esta particularidad, que
+si la voz, ô verbo acaba en _u_, hace _huc_; si en _i, hic_; si en _o,
+hoc_; y todos deben ser _hac_, ô _haca_, mudada la primera _a_ en _e, i,
+ò_, y, _u_.
+
+Tiene esta idioma Figuras mezcladas de Antithesis, y Apocope; v.g.:
+_Quipi hic_, en lugar de _Quipi haca_; se halla mudada la _a_ en _i_,
+y quitada la ultima _a_. Tambien de Apheresis, y Apocope: _Canmes et
+jatsa_; en lugar de _Can mes icte jatsa_, quitada la primera _i_, y la
+ultima _e_, en el primer exemplo; y confirmada esta verdad en el
+segundo.
+
+Entendidas las partes de la oración, se comprende quando este idioma en
+sus voces comete una figura, ô dos, en una palabra, y aun tres figuras
+en una sola voz. No pongo mas exemplos, porque seria extenderme, y lo
+dicho es suficiente para comprender el uso que hace la naturâ, y no el
+arte, ô los dos juntos del modo figurado.
+
+De la Figura Elipis.
+
+Esta figura se comete quando se omiten en la oracion algunas palabras,
+que siendo necesarias para completar el sentido gramatical, no hacen
+falta para la inteligencia ni para el sentido de la expresion. Usa este
+idioma de esta figura muchas veces; por exemplo: _¿Anit men?_ ¿Donde vas
+tu? y en lengua no se dice _elepu_, vas; sino que se omite. _Macque,
+tacca_: Ai voy, hermano mayor; y en lengua se omite _tina accu_, ô
+_elepu_, que dice: _ai entro_, ô _voy. Men unisi_: No quieras; y en
+lengua no se expresa el _no, epsie_; pero se entiende por esta figura.
+
+
+
+
+CAPITULO XII.
+
+Del Sintaxis de este Idioma.
+
+Sintaxis es lo mismo que construccion, fabricacion, ô composicion de las
+partes de la oracion entre si: ô Sintaxis es el orden y dependencia que
+deben tener entre si las palabras para formar la oracion. Esta
+construccion es propia y figurada, ô natural, y figurada. De lo dicho
+hasta aqui se infiere, que este idioma usa en su sintaxis de los dos
+modos natural, y figurado; y respecto de nuestro idioma este es un puro
+Hiperbaton, porque se invierte el orden gramatical que naturalmente
+guardan nuestras palabras en la oracion.
+
+Lo primero que pide nuestro sintaxis natural, es que el nombre
+substantivo se anteponga al adjetivo; y este regularmente es al
+contrario: el nombre adjetivo precede al substantivo, v.g.: _Misia
+imiu_; otro: _Tolon me munus_; otro: _Tsutsunagte gin_; otro: _Capnen
+nana pire_; otro: _Aium jurecuas ruc_; &c., que despues veremos. _Misia;
+Tolon; tsutsunagte; capnen; jurecuas_; todos son adjetivos; y los
+anteponen estos Naturales â los nombres substantivos _imiu, múnus, gin,
+pire_, y _ruc_. Pide nuestro Sintaxis natural que no haya falta ni sobra
+de palabras en la oracion; y en este sintaxis respecto del nuestro
+regularmente hay falta de palabras. En los exemplos dichos: _Misia imiu:
+Bonito todo_; en nuestro idioma diremos natural y propiamente: _Todo es
+bonito_. En el otro exemplo: _Tolon me múnus: Mucho tu porqueria_, ô
+_roña_; nosotros decimos: _Tu tienes mucha porqueria_, ô _roña_, &c.
+
+Aqui advertira el lector la inversion de la construccion, y la falta de
+palabras en este idioma respecto del nuestro; y aquel no pudiera
+entenderse sino nos valiesemos del Hiperbaton, y Elipis que tiene el
+nuestro. Trastornado este principio fundamental, es preciso que se
+trastornen tambien las reglas de nuestro sintaxis: esto es, la
+concordancia, el régimen, y la construccion, de las que voy à tratar en
+los Parrafos siguientes.
+
+Sección 1.
+
+Las concordancias son très: de nominativo, y Verbo; de Substantivo y
+Adjetivo; de relativo, y antecedente. La primera concierta en numero
+y en persona. Mas aqui es preciso repetir lo que diximos del verbo
+colectivo, ô verbo singular, y verbo plural; este dixe que es lo mismo
+que nuestros colectivos, porque hablan de muchedumbre. Ahora bien, tiene
+este idioma esta concordancia de nominativo y verbo, y precisamente
+concierta en numero y en persona, aunque el verbo sea plural o
+colectivo; v.g.: _Jupama ichon_, y tambien _Jupama itson_: Otro; _Can
+ole_, y tambien _can olse_. En estos dos exemplos hay quatro concordias
+de nominativo y verbo, aunque si se ha de suponer, que como el verbo en
+qualquier tiempo nunca tiene diversa terminacion dentro del mismo
+tiempo, siempre ha de haber concordia, sea la persona que quisiere: mas
+en los verbos plurales, ò colectivos, si la coleccion, pluralidad ò
+muchedumbre, es incompatible con la persona; esto es, si la persona no
+admite la pluralidad, y se junta con dichos verbos es mala la concordia
+y no estara bien dicha la oracion; v.g.: _Can semson_: Yo morimos, o yo
+muero mucho; porque una vez se muere uno, y no muchas: y _yo morimos_ ni
+en Castilla es buena concordia, y esto se ha de tener presente, si se
+quiere (como se debe) hablar con pureza, naturalidad y finura.
+
+Sección 2.
+
+Tiene tambien este idioma la concordia de Substantivo, y Adjetivo; y
+esta solo concierta en numero y en caso, y no en genero, porque no le
+tiene; v.g.: _Maccu misimin_; esposo bueno: y seria mala concordia
+decir: _Maccu misiminac_; porque _maccu_ es singular, y _misimimac_ es
+plural, ô habla de muchos. Lo mismo en esta: _Muquiuquinis hatcamac_,
+vieja prietas; ni en castilla esta bien: mas si _Muquiuquinis
+hatcasmin_, vieja prieta: porque el substantivo y adjetivo son
+singulares, y están en nominativo. Dixe que no tiene este idioma genero;
+y asi lo mismo es para estos Naturales decir en Castilla _Marido_, ò
+_esposo bueno_, que _buena; vieja prieto_, que _vieja prieta_; y tambien
+carece de nuestros articulos, como dixe en el 1. Cap. de este librito.
+
+
+Sección 3.
+
+_Que, qual, quien, cuyo_, son los pronombres relativos; y de estos
+relativos es de lo que al presente tratamos para la otra concordia que
+resta explicar. Todos tienen plural menos _que_, de cuya voz usamos en
+ambos numeros. Todos los relativos dichos se dicen en lengua, ò se
+nombran asi: _Numan, Anpi, Atte, Attenane_, como ya dixe hablando de los
+pronombres. _Numan_, ô _que_, no tiene mas terminacion y serve lo mismo
+que nuestro _que_, para quando es necesario usar de el. Mas como este
+idioma, como poco ha dixe, no tiene ni generos, ni articulos, que son
+los que forman aqui la concordia, hemos de decir que no tiene esta
+concordia ô por mejor decir, siempre que convenga, debemos usar de el,
+como usamas del _que_ en nuestras oraciones castellanas.
+
+No quiero omitir aqui sobre esta palabra _que_ lo que debiera haber
+dicho, quando se trató de la conjuncion. Quando el _que_ es conjuncion,
+ô particula (como deciamos en la gramatica latina) siempre es tacita en
+la oracion, v.g.: Deseo que seas bueno: _Ihuipsen, ca, men miste_.
+Quando el _que_ es relativo neutro interrogativo, dice este idioma
+_Intsis_, ô _Ista_; y dexo exemplos de esto. Quando el _que_ es como
+interjeccion, que nosotros decimos _que_, ò _he_, en esta lengua, se
+dice, _Ha_! para preguntar; y quando es relativo siempre se dice el que
+_numan_.
+
+
+
+
+CAPITULO XIII.
+
+Del Regimen que tienen las partes de la oracion que admite este
+Idioma.
+
+1. El nombre substantivo rige à otro nombre substantivo en genitivo sin
+la preposicion _de_, ni otra alguna mas siempre el genitivo se antepone
+al substantivo que le rige, v.g.: _Purchu rucca: Patrecma esgen_: &c.
+_Purchu_, y _Patrecma_ son genitivos de _rucca_, y _esgen_; que quiere
+decir: De purchu casa, ô la casa de Purchu: De Padres fresada, ô La
+fresada de los Padres. Ya diximos en las Declinaciones, que el
+nominativo, el genitivo, y vocativo no tienen distinta terminacion; pero
+por el contexto de la oracion en el sintaxis se conoce quando es un
+caso, û otro, asi como nosotros conocemos en la oracion latina por su
+contexto quando es un caso, y no otro, aunque no tengan distinta
+terminacion.
+
+2. El nombre substantivo rige al verbo, porque como aquel es el mobil de
+la accion, ô pasion, el verbo es el que expresa estas obras; y asi este
+ha de concertar con aquel, v.g.: _Purchu_, si no hay verbo, nada se
+dice, sino nombrar â un hombre que se llama Purchu: pero si se añade
+_guarca_, ya decimos la accion de Purchu; esto es: _Purchu llora_, que
+es concordia rigurosa de nominativo, y verbo.
+
+3. El verbo rige al nombre substantivo, ò pronombre, quando todos son
+terminos de la accion, ya signifique persona, ô ya cosa; y asi se dice:
+_Can muisin Diosse_: Yo quiero Dios â; esto es: Yo amo a Dios. _Can esso
+equets se_: Yo aborezco pecado al; esto es: Yo aborezco al pecado. Ya he
+dicho en el principio, y muchas veces, y ahora lo repito por ser este su
+lugar propio, que nuestras preposiciones son posposiciones en este
+idioma, y en estos dos exemplos son el _se. Dios se, equets se_. Paraque
+se entienda el sintaxis de esta lengua traduzco materialmente, y luego
+expreso en parafrasis la oracion perfecta en castellano, como se ve
+arriba. Es de notar que muchos verbos ellos solos explican y embeben
+dentro de si los terminos de su significacion, y en este caso no rigen
+nombre substantivo alguno v.g.: _Muraste men sitnun_: Crecio ya tu hijo,
+ô hija. Otro: _Semoste Abatonio_: Se murio, ò murio Antonio Abad; y
+otros exemplos de esta clase de verbos, que llaman neutros, ò mejor
+intransitivos; esto es que pasan su termino ô significacion á * * * *
+cosa, ni persona. Dixe tambien hablando del verbo, que en este idioma
+todos los verbos se pueden reducir â activos y pasivos, y no à tanta
+confusion de verbos como (no se si bien) se nos enseña en la gramatica
+latina. Vease la nota 6^a y 7^a del Arte de Nebrija, De institutione
+grammaticae, Lib. 3; y tambien puede verse nuestro Arte de gramática
+castellana Cap. 7, par. 1, n. 88.
+
+_Se, e, ne, huy, tsa, me, tca, tac, um, ium, sum, tun_, y no se si
+alguna otra posposition son todas las que acompañan al nombre
+substantivo, ô pronombre, regido del verbo. Exemplos de todos. 1^o.
+_Oquegte ca mucurma_SE: Despedi, ô despache yo mugeres â las; esto es:
+Despedi â las mugeres. 2^o. ¿_Attena ayona soton_E? Quien va â traer
+lumbre la; esto es: ¿Quien va â traer la lumbre? 3^o. _Cua met aisan_E:
+Asi tu despues â ellos _les_; esto es: Asi les diras, ô: Asi diras à
+ellos. 4^o. _Neppe appa_HUAS: Esto Padre, _â, ô para_; Esto es para el
+Padre. 5^o. _Chien hac guate Tausest_SA: Ahora el viene Hermano menor
+_con_; esto es: Ahora viene el con su Hermanito. 6^o. _Otso Appa_ME: Ve
+Padre _con_; esto es: Vete con tu Padre. Este _me_ significa en casa,
+como dije en otro lugar. 7^o. _Ripuin ca isu_TCA: Espine yo mano _en_;
+esto es: Me espine en la mano. 8^o. _Agûis_TAC, _cannis tion_: Zurda, o
+izquierda _con_ â mi tiro: esto es: Me tiro con la izquierda. 9^o.
+_Tapur_UM _cames et jatsa_: Palo _con_ yo â ti despues pegare; esto es:
+Te he de pegar con un palo. 10^o. _Sialquinin usec jai_IUM: Se rajo
+chiflo, ô pito boca _con_; esto es: Se rajo el pito con la boca. 11^o.
+_Nottos cannis haca isa_SUM: Pego a mi el manos _con_; esto es: Me
+sacudio con las manos, ô con la mano. 12^o. _Najan_TUN _can tsetcan_:
+Alli de yo vengo; esto es: vengo de alli. Quedan pues explicadas todas
+las posposiciones de este idioma con los exemplos que estan dichos y
+señalados con una raya asi--; y en muchos exemplos no solo hay la
+posposicion sino tambien muchas figuras, de las que dixe en el Cap. 11.
+de esta tarea.
+
+4. El verbo rige à otro verbo; y en este caso el primero es
+determinante, y el segundo determinado: y asi se dice: _Ihuten ca ama_:
+Quiero yo comer. Mas si el verbo determinado regido del determinante
+pide alguna conjuncion para llevar la oracion al modo indicativo, ô
+subjuntivo, esta siempre se ha de expresar con tal que no sea la
+conjuncion _que_. v.g.: _Huasaca tihon, ausic, quet, humun_: El auron
+nace para volar; ô materialmente: Auron nace, para que el despues vuele.
+Otro: _Can semon, usi can ihusen_: Yo muero, porque yo quiero. Otro:
+_Miste nuc me_: Bueno, dicen, tu; ô mejor: Dicen que estas bueno. No
+tiene esta conjuncion _que_ este idioma, como dixe en otra parte.
+
+5. El adverbio es absolutamente necesario para acompañar al verbo
+conjugado; ô mejor, el adverbio es preciso para la formacion de los
+tiempos en este idioma; por manera que sin adverbio todo verbo sera
+infinitivo, y presente; y el adverbio, como dije en su lugar, determina
+al verbo â que sea pretérito, y futuro. Para el imperativo, y modo
+infinitivo no es necesario ni tampoco para el tiempo presente de
+indicativo, pero modifica, siempre la significacion del verbo.
+
+6. Las posposiciones rigen al dativo, acusativo, y ablativo, como hemos
+dicho en los doze exemplos de este Cap. n. 3. Tambien rigen al adverbio
+algunas veces, y nunca al verbo, porque las posposiciones que acompañan
+y rigen â nuestros verbos, llamo yo conjunciones las mas, y no
+preposiciones aunque son en realidad. Esta preposicion _a_, que en
+lengua no se como llamar, tiene un uso muy grande, ô extenso en este
+idioma; y viene à hacer los mismos oficios que el gerundio substantivo
+de acusativo, ô supino; v.g.: A llevar del primer modo _ferendum_; del
+segundo: _latum_; ô futuro de infinitivo de activa. Asi como â el supino
+en um latino acompañan las verbos de movimiento _ir_ y _venir_; asi
+tambien quando se usa en nuestra castilla esta preposicion _a_, y se
+quiere traducir en lengua, le acompañan dichos verbos de movimiento los
+que regularmente no expresan en la oracion, en la lengua v.g.: _Oiyni ca
+curcase_: Vengo a coger pinole. _Oyona ca curcase_: Voy â traer pinole.
+_Etsesu ca_. Voy a dormir. De lo dicho consta que quando la oracion
+lleva este romance _a_ ô esta preposicion castellana _a_, en idioma
+Mutsun, tiene tres terminaciones _im, na_ y _su_, que se añaden al verbo
+en infinitivo, ô tiempo presente. El _im_ es para el verbo _venir_, y el
+_na_, y _su_, son para el verbo _ir_, los quales verbos de movimiento
+rara vez, o nunca, se expresan en la expresion de esta lengua; pero
+siempre se han de suponer, y nunca se pueden trocar, porque no es lo
+mismo _venir_, que _ir_.
+
+Me ha sido dificultosisimo perciber que diferiencia hay entre el _na_, y
+el _su_; y despues he venido â observar, que el _su_ es quando se va
+para no volver en algunos dias, ô se va muy lexos; y el _na_ quando uno
+vuelve luego, ô se va cerca: y quando ni se va lexos, ni cerca, y se
+anda pocos pasos, ô ninguno, y la oracion lleva el romance _â_, se hace
+por infinitivo, ô presente de indicativo, v.g.: _Chala ca_: Voy a hacer
+aguas menores. _Ama ca_: Voy a comer. Mas si se fuera â mear lexos, para
+volver tarde, o no volver, diria _Chala su_; ô _Chalasisu ca_; y le
+mismo en el otro exemplo: _Amasu ca_; mas si se fuese cerca, y para
+volver luego, se dira: _Chalana_, ô: _Chalasina ca_; y lo mismo; _Amana
+ca_. Las demas preposiciones castellanos, como que no son posposiciones
+del idioma, merecen otro Capitulo particular para que no queden sin
+entenderse debidamente.
+
+7. Las conjunciones que tengo advertido en este idioma, y de que dixe en
+el Cap. 9, son _ene, ará, hia, in, iuta, aia, imatcun, yela_, y las
+demas que puse alli, y todas quantas, despues se observen, solas très se
+posponen siempre al verbo, nombre, pronombre, adverbio, que unen, ô
+enlazan y rigen; y las demas se anteponen siempre, v.g.: _Ene me cannis
+intsis queletse_? ¿Y tu a mi porque me miras con ojos airados? esto es;
+Y porque me miras con ceño. _Ara intsissun me ittocpo_? ¿Y que cosa con
+tu te limpias el fiador? esto es: ¿Y tu con que te limpias el trasero?
+_Irugmin aisa chitte rini, mucurma, tsareshia_: Todos ellos bailan,
+muchachos, mugeres, hombres, y; esto es: Bailan todos ellos, muchachos,
+mugeres, y hombres. _Isque canhi megé_: Dexa, ò quita, yo y miro; esto
+es: Dexame, miro yo tambien. _Attese me ihusen uti iutamen menen, iuta
+men ette_? A quien tu quieres mas, ô â tu Abuela, ô à tu Abuelo?
+_Teretis men aia_: Te has cortado el pelo tu tambien. _Imatcun ca nisu,
+monsemetcun camis_. Si yo lo supiera te avisaria. Y asi todos los demas
+exemplos de quantas conjunciones haya en esta lengua, en la que se
+enlazan las palabras que no dicen disonancia, y que son conformes â la
+naturaleza de los juicios y racionalidad del hombre.
+
+Se me paso advertir que el Gerundio rige al nombre, aunque rara vez
+se usa en este idioma, que los forma de esta manera: _Richaspismac,
+Amasmac, Monsermac_: Jugando, Comiendo, Avisando. Tambien significan
+y tienen estos romances: _de jugar, de comer, de avisar_, y lo mismo de
+quantos gerundios se quiera usar, añadiendo al tiempo pasado un _mac_.
+Quando se usa del primer modo se resuelven con un _cochop, o piñi_, que
+significa _quando estaba jugando, comiendo, avisando_: mas usado del
+segundo modo no se puede resolver.
+
+Tambien advierto otra cosa rarisima, que estas tres voces arriba dichas
+significan _jugadores, comedores, y avisadores_; y se conoce ser asi por
+el contexto de las oraciones. _Incagtet, inca, inisista, intsisum, usi,
+incagte_? son conjunciones de interrogativo, y todas significan,
+_porque? ¿Incagtet_? tambien significa ¿_Como_? mas con el _usi_ se
+responde, y con _nisiasum_ se confirma, v.g.: ¿_Isagte hic guarca_?
+¿Porque llora el? _Usi Patre has sisas_: Porque el Padre le amenasó.
+_Nisiasum huc guarca; usi Patre has sisas_: Por eso, el llora, porque el
+Padre le amenasó.
+
+Tambien tiene este idioma tres modos lo menos para preguntar, y son los
+siguientes: _Tage cames_; Pregunto yo â ti. Este es un modo, y rara vez
+se usa el _Tage_ para uno decir, pregunto, ò dime. El 2^o es _Moths_.
+Este es el mas corriente modo de preguntar. El otro es, añadiendo â la
+primera palabra un _se_, ô _s_, pospuesto, ê indagando la cosa, como con
+admiracion, y duda. Exemplo: _Tage cames ¿anta Dios_? Te pregunto ¿donde
+Dios? (suple está). ¿_Moths Dioste pire_? Te pregunto, ô dime; ¿hay
+Dios? _Diostes pire_? ¿Que hay Dios? ô Dime, ô te pregunto: ¿hay Dios?
+En otros exemplos: _Mots men corone_? (Para decir responde, se dice en
+lengua _raguanpui, ô uni_). Ahora: ¿_Mots men corone_? Dime, ô te
+pregunto, ¿_tu pie este_? esto es: Dime, este es tu pie? Del otro modo:
+¿_Nes mencoro_; ô ¿_Mense coró ne_? ¿ Que este es tu pie? ô: Dime ¿tu
+pie este? Ya dixe, que esta lengua no tiene el verbo substantivo _Ser_,
+pero le supone quando le es preciso para la expresion.
+
+El _se, ô s_, pospuesta â la primera palabra, es lo mismo que nuestro
+_que_, quando preguntamos: ¿Que yo querré? ¿Que yo he de querer? ¿_Yetes
+ca uni? ¿Unís ca yete?_ ô _¿Canse yet uni? ¿Moths cat uni? ¿Moths can
+yet uni? ¿Moths can uni yete_? De todos estos modos forma esta lengua
+una misma oracion, la que es facilisima de entenderse, si ya se ha
+comprendido lo dicho hasta aqui, especialmente en la formacion de los
+tiempos, y en otras partes. Concluyo quanto se comprehende en estos
+siete puntos del Regimen.
+
+El nominativo, y el vocativo de ninguna parte de la oracion se rigen,
+porque son el movil de la expresion. _Matshu ai juri_: Esta voz, ô
+palabra _Matshu_ es vocativo, y significa muchas cosas; esto es: es la
+expresion de mas familiaridad que hay entre esta gente; y asi tiene
+distintos respetos. Si el esposo dice â su muger _Matshu_, es lo mismo
+que decir Esposa. Si le dice un Padre â su hijo _Matshu_, es lo mismo
+que decir, ô llamarle Hijo. Si es de un compañero à otro _Matshu_, es lo
+mismo que nombrarle Compañero; y asi de los demas respetos: por lo que
+ninguno que no tenga intima familiaridad con otro, puede usar de ella
+sin incurrir en la nota de impolitico, ò que no entiende lo que dice.
+
+Y supuesto he tocado esto, dire lo que he advertido sobre su politica,
+que es casi ninguna en orden al tratamiento. _Que_ es otra voz con que
+llaman â otro con quien no tienen familiaridad, v.g.: quando uno no oye,
+y le llaman por medio de la voz _Que_, que equivale â _oyga vd._: en
+nuestra castilla, y entre ellos â _Oye tu_; pues este es el tratamiento
+de niños â viejos, de hijos â Padres, y de estos â ellos. _Minini_ es
+otra palabra con que llaman los ancianos a sus deudos, ò extraños,
+quando son parvulos estos, ò no han llegado al uso de razon.
+
+El nombre substantivo ò pronombre rige â otro, pero anteponiendose el
+regido al regente, sin articulo, ni particula alguna en lo que se
+diferencia de nuestro idioma. Tambien rige el nombre substantivo al
+verbo, y este al nombre, segun el caso que pida aquel, y siempre con
+posposicion pues de no haberla no tendria casos el nombre substantivo, ô
+adjetivo de esta lengua. La preposicion, ô posposicion se acompaña con
+los substantivos, adjetivos, y algunas veces con los adverbios, y quando
+conviene con los pronombres, y nunca con el verbo. Las conjunciones
+enlazan nombres, y verbos, nombres con nombres, y verbos con verbos, y
+tambien adverbios con adverbios, y gerundios con gerundios; unas veces
+antepuestas, y otras pospuestas, no teniendo estas lugar de anteponerse
+nunca en este idioma. Los adverbios acompañan â los tiempos, y modos del
+verbo, y al mismo verbo, y â los nombres adjetivos, modificandolos
+siempre segun la diversidad de su significacion en el contexto de la
+expresión.
+
+
+
+
+CAPITULO XIV, Y ULTIMO.
+
+De la Construccion del Mutsun.
+
+Dixe en el Cap. 12, que respecto de nuestro idioma es este un puro
+hiperbaton, esto es, una inversion, ó perturbacion del orden de las
+palabras nuestras, porque estas tienen un sintaxis, cuyas reglas son muy
+diversas de las de este, como consta de los dos Capitulos antecedentes.
+En orden a la construccion de las partes de la oracion de este idioma no
+hay que recurrir â Autores clasicos, ni â personas cultas, que son los
+principios de la nuestra: lo que hemos de hacer aqui es observar como
+hablan los de mayor capacidad, y los viejos; pues estos, y aquellos se
+explican con propiedad, elegancia, y pureza; y esto es lo que he
+practicado para poder comprender esta lengua en la forma que voy
+explicandola. Regularmente siempre empieza este idioma â expresarse por
+aquella parte de la oracion, que es el intento principal ô objeto que se
+propone manifestar, construyendo, y formando las clausulas, y tomando
+aquellas voces, que desde luego son propias y expresivas para descubrir
+los sentimientos del alma, segun en ella existen.
+
+Tambien he observado, que las mas expresiones se pueden formar de dos
+modos, pero siempre como acabo de decir, v.g.: _Cati al irugmin_; que
+significa: Asi son todos, ô Asi es todo. Este adverbio _Cati, Asi_, es
+lo que se intenta manifestar primeramente; y despues dice _al_, que
+significa _no mas_ (que equivale à nuestro _son_ si dice algo este
+idioma); luego añade el _irugmin_, que no es lo primero que ocurre
+expresar. Mas si se oye de este modo: _Irugmin at cati_, que tambien es
+el mismo pensamiento; el _irugmin_ que es todos, ô todo, es lo que
+primeramente se quiere descubrir; luego se pone el _at_, son, y despues
+se usa del _cati_ asi, que es lo ultimo que se persuade declarar. Otro
+exemplo: ¿_Pinasset cus camnes cánna_? ¿ Que eso te habia de negar? ô
+materialmente: ¿Eso que habia de yo à ti negar? De el otro modo: ¿_Moths
+tugne cames pinasse cánna_? Dime, te negaría yo eso? ô materialmente:
+¿Dime, yo â ti eso que negaria? Aqui se ve del primer modo: ¿Que eso te
+habia de negar? y del 2^o modo: ¿Dime, te negaria yo eso? Lo primero que
+intenta expresar el que asi habla es, ¿_que eso_, haciendo relación â lo
+que _es eso_; despues expresa lo demas para que forme sentido; pero no
+es lo que inmediatamente le ocurrio, y luego concluye acabando el
+pensamiento ô expresion con lo que le es necesario para manifestarle. Lo
+que he dicho con los dos exemplos, se supone ser lo mismo con quantas
+expresiones largas, ô breves, hay en este idioma, el que repito, forma
+sus expresiones de dos modos, guardando la regla del sintaxis que la
+naturaleza le ha dado, y como acabo de explicar.
+
+No obstante lo dicho hasta aqui, siempre las reglas del sintaxis de este
+idioma se observan, y no tienen aquella inversion que tiene el sintaxis
+castellano por medio de tantas figuras.
+
+
+
+
+
+End of the Project Gutenberg EBook of A Vocabulary or Phrase Book of the
+Mutsun Language, Spoken at the Mission of San Juan Bautista, Alta California, by Father Felipe Arroyo de la Cuesta
+
+*** END OF THIS PROJECT GUTENBERG EBOOK MUTSUN LANGUAGE ***
+
+***** This file should be named 11081-8.txt or 11081-8.zip *****
+This and all associated files of various formats will be found in:
+        https://www.gutenberg.org/1/1/0/8/11081/
+
+Produced by David Starner, David Garcia and PG Distributed Proofreaders
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+https://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at https://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at https://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit https://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: https://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+     https://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+     https://www.gutenberg.org/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+     https://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+     https://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+     https://www.gutenberg.org/GUTINDEX.ALL
+
+
