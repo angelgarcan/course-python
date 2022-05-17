@@ -1,3 +1,5 @@
 psycopg2==2.9.3
 SQLAlchemy==1.4.36
 numpy==1.22.3
+coverage==6.3.3
+pytest==7.1.2
