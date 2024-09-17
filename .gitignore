@@ -8,3 +8,4 @@ __pycache__/
 
 # Coverage files
 *.coverage
+.DS_Store
