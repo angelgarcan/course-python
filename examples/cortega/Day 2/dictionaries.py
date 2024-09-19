@@ -68,3 +68,6 @@ for value in my_dict.values():
 # Loop through both keys and values
 for key, value in my_dict.items():
     print(f"{key}: {value}")
+
+
+    
