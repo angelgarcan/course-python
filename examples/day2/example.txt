@@ -1,0 +1,5 @@
+This is the first line.
+Python makes file handling easy.
+Reading files is simple with read().
+You can write files using write() or writelines().
+This is the last line of the example file.
